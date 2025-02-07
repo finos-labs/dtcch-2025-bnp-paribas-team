@@ -1,0 +1,2836 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Buying Palantir Stock Today Is Like Buying Tesla Stock 10 Years Ago, Dan Ives Says: 'This Could Be A $1 Trillion Market Cap' - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/02/43476925/buying-palantir-stock-today-is-like-buying-tesla-stock-10-years-ago-dan-ives-says-t",
+            "time_published": "20250204T203022",
+            "authors": [
+                "Adam Eckert"
+            ],
+            "summary": "Wedbush's Dan Ives believes Palantir investors focused on valuation are missing the bigger picture. \"When we do the checks that we've done for Palantir, I think it's the next Oracle, it's the next Salesforce,\" Ives says. Get the Real Story Behind Every Major Earnings Report",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Palantir-Technologies-Japan-Logo--Tokyo-_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.185458,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.169676",
+                    "ticker_sentiment_score": "0.321408",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.169676",
+                    "ticker_sentiment_score": "0.371829",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.479683",
+                    "ticker_sentiment_score": "0.516146",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Ford Q4 Earnings Preview: EV Tax Credit, Tariffs Could Reshape Auto Giant's Future - Ford Motor  ( NYSE:F ) ",
+            "url": "https://www.benzinga.com/news/global/25/02/43475069/ford-q4-earnings-preview-ev-tax-credit-tariffs-could-reshape-auto-giants-future",
+            "time_published": "20250204T191743",
+            "authors": [
+                "Chris Katje"
+            ],
+            "summary": "Ford reports fourth-quarter financial results after market close Wednesday, Feb. 5. Among the key items to watch will be if the company comments on the impact tariffs and the removal of the EV federal tax credit could have.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Ford-Motor-Company-F.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.947132"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.134959,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.344712",
+                    "ticker_sentiment_score": "0.135831",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.071346",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Could The Trump-Established Sovereign Wealth Fund Invest In Bitcoin, Nvidia, TikTok?",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43473182/could-the-trump-established-sovereign-wealth-fund-invest-in-bitcoin-nvidia-tiktok",
+            "time_published": "20250204T181156",
+            "authors": [
+                "Murtuza Merchant"
+            ],
+            "summary": "Experts emphasize that the SWF's success depends on reducing the U.S. deficit and balancing volatile assets with diversified holdings. The U.S. Sovereign Wealth Fund may serve dual purposes: generating returns and advancing national security interests, experts highlight.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Federal-Reserve-Building--Washington-Dc-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.623304"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.270617,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.079637",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.079637",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.46341",
+                    "ticker_sentiment_score": "0.401045",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin and Game Theory: How Competition Accelerated Bitcoin's Rise",
+            "url": "https://decrypt.co/resources/bitcoin-and-game-theory-how-competition-accelerated-bitcoins-rise",
+            "time_published": "20250204T172136",
+            "authors": [
+                "Jason Nelson"
+            ],
+            "summary": "Game theory helps to explain why early Bitcoin adopters can win big, and why waiting can be a costly mistake.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/bitcoin-investment_2-gID_4-pID_1.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99676"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.177021,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.048969",
+                    "ticker_sentiment_score": "0.116053",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.024496",
+                    "ticker_sentiment_score": "0.110149",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.024496",
+                    "ticker_sentiment_score": "0.052784",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HNST",
+                    "relevance_score": "0.024496",
+                    "ticker_sentiment_score": "-0.026242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SMLR",
+                    "relevance_score": "0.024496",
+                    "ticker_sentiment_score": "0.052784",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.024496",
+                    "ticker_sentiment_score": "0.216818",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.70352",
+                    "ticker_sentiment_score": "0.25538",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTCP",
+                    "relevance_score": "0.024496",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trading Meets Luxury: Bybit Kazakhstan Brings Unmatched Prizes to Local Crypto Traders",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43469224/trading-meets-luxury-bybit-kazakhstan-brings-unmatched-prizes-to-local-crypto-traders",
+            "time_published": "20250204T162032",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ALMATY, Kazakhstan, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Bybit, the world's second-largest cryptocurrency exchange by trading volume, is redefining the way users join the crypto trading journey. In a new event from now until Feb. 28, 2025, Bybit.kz is offering Tesla Model 3, Rolex watches, popular ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/368796c7-1da2-4f89-8beb-45a0e3edce7c/image1.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                }
+            ],
+            "overall_sentiment_score": 0.408457,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "-0.168821",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "-0.168821",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "0.094535",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RDDT",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "-0.168821",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "How to Get Kids Into Investing",
+            "url": "https://www.fool.com/retirement/2025/02/04/how-to-get-kids-into-investing/",
+            "time_published": "20250204T161400",
+            "authors": [
+                "Motley Fool Staff"
+            ],
+            "summary": "How do you get kids not just thinking about investing, but actually doing it? In this podcast episode, one Foolish father shares a brilliant approach -- turning investing into a game with real-world stakes, and in the process, teaching lifelong lessons about money, patience, and ownership.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806198/rbi.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.252719,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CPRT",
+                    "relevance_score": "0.006469",
+                    "ticker_sentiment_score": "0.074561",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.006469",
+                    "ticker_sentiment_score": "0.142421",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.012938",
+                    "ticker_sentiment_score": "0.081753",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.045261",
+                    "ticker_sentiment_score": "0.048939",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.012938",
+                    "ticker_sentiment_score": "0.081753",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.012938",
+                    "ticker_sentiment_score": "0.081753",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMG",
+                    "relevance_score": "0.025873",
+                    "ticker_sentiment_score": "0.055463",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CTAS",
+                    "relevance_score": "0.051718",
+                    "ticker_sentiment_score": "0.072988",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.012938",
+                    "ticker_sentiment_score": "0.108215",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Mercedes-Benz's driver assistance system ranks higher than Tesla's",
+            "url": "https://www.cnbc.com/2025/02/04/why-mercedes-benzs-driver-assistance-system-ranks-higher-than-teslas.html",
+            "time_published": "20250204T160001",
+            "authors": [],
+            "summary": "Tesla's Autopilot and Full Self-Driving systems are good, but testing group Consumer Reports says they aren't even close to the highest rated.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.12144,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.211191",
+                    "ticker_sentiment_score": "0.116195",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.106541",
+                    "ticker_sentiment_score": "-0.100707",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Spotify shares pop 10% after company reports first profitable year",
+            "url": "https://www.cnbc.com/2025/02/04/spotify-shares-pop-10percent-after-company-reports-first-profitable-year.html",
+            "time_published": "20250204T155535",
+            "authors": [],
+            "summary": "The music streaming company said it paid a record $10 billion in royalties to the music industry in 2024.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Earnings",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.995921"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.272099,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.445179",
+                    "ticker_sentiment_score": "0.389154",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "0.33219",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "0.33219",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Trump's Tariffs Hit TSLA Hard, Shares Fall 5%: What's Next?",
+            "url": "https://www.zacks.com/stock/news/2409358/trumps-tariffs-hit-tsla-hard-shares-fall-5-whats-next",
+            "time_published": "20250204T155300",
+            "authors": [
+                "Rimmi Singhi"
+            ],
+            "summary": "Tesla becomes one of the S&P 500's worst performers after Trump announces tariffs on imports from Mexico, Canada and China. Is this a buying opportunity?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/39/4142.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.131369,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.15524",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.15524",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.15524",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.726306",
+                    "ticker_sentiment_score": "0.232888",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.200412",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.15524",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "DeepSeek Disrupts, Big Tech Responds",
+            "url": "https://www.fool.com/investing/2025/02/04/deepseek-disrupts-big-tech-responds/",
+            "time_published": "20250204T153300",
+            "authors": [
+                "Motley Fool Staff"
+            ],
+            "summary": "The market was left with more questions than answers about the next era of artificial intelligence. As we wait, the hyperscalers keep spending.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806201/mfm-31.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999986"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.188005,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.074211",
+                    "ticker_sentiment_score": "0.073102",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.006193",
+                    "ticker_sentiment_score": "0.094357",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.018578",
+                    "ticker_sentiment_score": "0.08104",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.049513",
+                    "ticker_sentiment_score": "0.047877",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.061869",
+                    "ticker_sentiment_score": "0.086196",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.049513",
+                    "ticker_sentiment_score": "0.071919",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.068042",
+                    "ticker_sentiment_score": "0.105689",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.006193",
+                    "ticker_sentiment_score": "0.174988",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.049513",
+                    "ticker_sentiment_score": "0.051788",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOW",
+                    "relevance_score": "0.012386",
+                    "ticker_sentiment_score": "0.094135",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.012386",
+                    "ticker_sentiment_score": "0.039282",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is TSLA Stock Worth Betting On Now on Musk's Big AI Promises?",
+            "url": "https://www.zacks.com/stock/news/2409274/is-tsla-stock-worth-betting-on-now-on-musks-big-ai-promises",
+            "time_published": "20250204T145400",
+            "authors": [
+                "Rimmi Singhi"
+            ],
+            "summary": "Musk is betting big on AI, AVs and Optimus, believing they'll make Tesla the world's most valuable company. But should you buy the stock on his optimism?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/38/20242.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.225601,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.064104",
+                    "ticker_sentiment_score": "0.05903",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.064104",
+                    "ticker_sentiment_score": "0.05903",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.064104",
+                    "ticker_sentiment_score": "0.05903",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.623692",
+                    "ticker_sentiment_score": "0.326388",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.312423",
+                    "ticker_sentiment_score": "0.126311",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.064104",
+                    "ticker_sentiment_score": "0.05903",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "LiveOne & Telly Collaborate to Bring Dual-Screen Experience to Users",
+            "url": "https://www.zacks.com/stock/news/2409061/liveone-telly-collaborate-to-bring-dual-screen-experience-to-users",
+            "time_published": "20250204T141000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "LVO partners with Telly to offer users an unmatched dual-screen audio and entertainment experience.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bc/51150.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.983605"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.444721,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BB",
+                    "relevance_score": "0.20537",
+                    "ticker_sentiment_score": "0.105248",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IDCC",
+                    "relevance_score": "0.20537",
+                    "ticker_sentiment_score": "0.122634",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DLB",
+                    "relevance_score": "0.20537",
+                    "ticker_sentiment_score": "0.111448",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "0.20559",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LVO",
+                    "relevance_score": "0.525907",
+                    "ticker_sentiment_score": "0.660601",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Better EV Stock: Rivian vs. Tesla",
+            "url": "https://www.fool.com/investing/2025/02/04/better-ev-stock-rivian-vs-tesla/",
+            "time_published": "20250204T134000",
+            "authors": [
+                "Chris Neiger"
+            ],
+            "summary": "The electric vehicle market is getting crowded as traditional automakers release new EV models and new start-ups expand their position in the market. The result has been a rise in EV sales, which jumped 7% in the U.S. last year. But finding a long-term winner among EV stocks isn't exactly easy ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805847%2Fgettyimages-2032424629-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.13292,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.04882",
+                    "ticker_sentiment_score": "0.125003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.537474",
+                    "ticker_sentiment_score": "0.235162",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "TMDX LEGAL NEWS: The TransMedics Group, Inc. Securities Fraud Investigation is Ongoing - Contact BFA Law if You Lost Money  ( NASDAQ:TMDX )  - TransMedics Gr  ( NASDAQ:TMDX ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460856/tmdx-legal-news-the-transmedics-group-inc-securities-fraud-investigation-is-ongoing-contact-bfa-la",
+            "time_published": "20250204T131900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into TransMedics Group, Inc. TMDX for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.259458,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TMDX",
+                    "relevance_score": "0.781409",
+                    "ticker_sentiment_score": "0.455951",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "0.141107",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "MQ CLASS ACTION DEADLINE: The Marqeta, Inc. Court Deadline is Approaching - Contact BFA Law by February 7  ( NASDAQ:MQ )  - Marqeta  ( NASDAQ:MQ ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460742/mq-class-action-deadline-the-marqeta-inc-court-deadline-is-approaching-contact-bfa-law-by-february",
+            "time_published": "20250204T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Marqeta, Inc. MQ and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.195452,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MQ",
+                    "relevance_score": "0.700607",
+                    "ticker_sentiment_score": "0.305946",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.075161",
+                    "ticker_sentiment_score": "0.141057",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CPRI CLASS ACTION DEADLINE: The Capri Holdings Court Deadline is Approaching - Contact BFA Law by February 21  ( NYSE:CPRI )  - Capri Holdings  ( NYSE:CPRI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460747/cpri-class-action-deadline-the-capri-holdings-court-deadline-is-approaching-contact-bfa-law-by-feb",
+            "time_published": "20250204T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Capri Holdings Limited CPRI, Tapestry, Inc., and certain of Capri and Tapestry's senior executives for potential violations of the federal ...",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.133489,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CPRI",
+                    "relevance_score": "0.862954",
+                    "ticker_sentiment_score": "0.168945",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TPR",
+                    "relevance_score": "0.069697",
+                    "ticker_sentiment_score": "0.024656",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.069697",
+                    "ticker_sentiment_score": "0.140053",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CROX CLASS ACTION DEADLINE: The Crocs, Inc. Court Deadline is Approaching - Contact BFA Law by March 24  ( NASDAQ:CROX )  - Crocs  ( NASDAQ:CROX ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460743/crox-class-action-deadline-the-crocs-inc-court-deadline-is-approaching-contact-bfa-law-by-march-24",
+            "time_published": "20250204T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Crocs, Inc. CROX and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.972756"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.110596,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CROX",
+                    "relevance_score": "0.699089",
+                    "ticker_sentiment_score": "0.111259",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.068698",
+                    "ticker_sentiment_score": "0.139904",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "NXT CLASS ACTION DEADLINE: The Nextracker Inc. Court Deadline is Approaching - Contact BFA Law by February 25  ( NASDAQ:NXT )  - NEXTracker  ( NASDAQ:NXT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460744/nxt-class-action-deadline-the-nextracker-inc-court-deadline-is-approaching-contact-bfa-law-by-febr",
+            "time_published": "20250204T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Nextracker Inc. NXT and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.070184,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NXT(EXP20091224)",
+                    "relevance_score": "0.635378",
+                    "ticker_sentiment_score": "0.040362",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.065685",
+                    "ticker_sentiment_score": "0.139522",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:NXT",
+                    "relevance_score": "0.065685",
+                    "ticker_sentiment_score": "0.062914",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "BIOA CLASS ACTION DEADLINE: The BioAge Court Deadline is Approaching - Contact BFA Law by March 10  ( NASDAQ:BIOA )  - Bioage Labs  ( NASDAQ:BIOA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460745/bioa-class-action-deadline-the-bioage-court-deadline-is-approaching-contact-bfa-law-by-march-10-na",
+            "time_published": "20250204T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against BioAge Labs, Inc. BIOA and certain of its senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.126418,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BIOA",
+                    "relevance_score": "0.305437",
+                    "ticker_sentiment_score": "0.133873",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.062597",
+                    "ticker_sentiment_score": "0.139237",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "APLT CLASS ACTION DEADLINE: The Applied Therapeutics Court Deadline is Approaching - Contact BFA Law by February 18  ( NASDAQ:APLT )  - Applied Therapeutics  ( NASDAQ:APLT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460746/aplt-class-action-deadline-the-applied-therapeutics-court-deadline-is-approaching-contact-bfa-law-",
+            "time_published": "20250204T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Applied Therapeutics, Inc. APLT and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.173757,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "APLT",
+                    "relevance_score": "0.650341",
+                    "ticker_sentiment_score": "0.25367",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.057352",
+                    "ticker_sentiment_score": "0.139007",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FTAI CLASS ACTION DEADLINE: The FTAI Aviation Ltd. Court Deadline is Approaching - Contact BFA Law by March 18  ( NASDAQ:FTAI )  - FTAI Aviation  ( NASDAQ:FTAI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460738/ftai-class-action-deadline-the-ftai-aviation-ltd-court-deadline-is-approaching-contact-bfa-law-by-",
+            "time_published": "20250204T131700",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against FTAI Aviation Ltd. FTAI and certain of its senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.084213,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FTAI",
+                    "relevance_score": "0.836575",
+                    "ticker_sentiment_score": "0.066081",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.139029",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Sunrun's Power Plant Programs Complete Successful 2024 with Expansion and Innovation To Support Power Grids Across the Country - Sunrun  ( NASDAQ:RUN ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43460159/sunruns-power-plant-programs-complete-successful-2024-with-expansion-and-innovation-to-support-pow",
+            "time_published": "20250204T130044",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SAN FRANCISCO, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Sunrun RUN, the nation's leading provider of clean energy as a subscription service, announced today that its growing portfolio of virtual power plants ( VPPs ) successfully supported power grids across the country in 2024 with a combined ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.335418,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EXC",
+                    "relevance_score": "0.033515",
+                    "ticker_sentiment_score": "0.181511",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RUN",
+                    "relevance_score": "0.725359",
+                    "ticker_sentiment_score": "0.562309",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.13347",
+                    "ticker_sentiment_score": "0.09534",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VST",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.079347",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ED",
+                    "relevance_score": "0.033515",
+                    "ticker_sentiment_score": "0.105448",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Sunrun's Power Plant Programs Complete Successful 2024 with Expansion and Innovation To Support Power Grids Across the Country",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020272/0/en/Sunrun-s-Power-Plant-Programs-Complete-Successful-2024-with-Expansion-and-Innovation-To-Support-Power-Grids-Across-the-Country.html",
+            "time_published": "20250204T130000",
+            "authors": [
+                "Sunrun Inc."
+            ],
+            "summary": "Sunrun scaled its grid services business in 2024 to include the nation's largest single-owner virtual power plant, a new partnership with Tesla in Texas, and the country's first vehicle-to-home grid support program in partnership with Ford and Baltimore Gas and Electric Sunrun scaled its grid ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/5e4df695-28b9-4854-b8eb-5102dfc50d77",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.337504,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EXC",
+                    "relevance_score": "0.03545",
+                    "ticker_sentiment_score": "0.095677",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RUN",
+                    "relevance_score": "0.733479",
+                    "ticker_sentiment_score": "0.548926",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.141102",
+                    "ticker_sentiment_score": "0.123455",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VST",
+                    "relevance_score": "0.07083",
+                    "ticker_sentiment_score": "0.099907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ED",
+                    "relevance_score": "0.03545",
+                    "ticker_sentiment_score": "0.095677",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Introduces Cheaper Cybertruck Version In Canada While Raising Foundation Series Prices - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43457599/tesla-hikes-foundation-series-cybertruck-price-by-as-much-as-116-in-canada-introduces-non-foundation-series",
+            "time_published": "20250204T114034",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Tesla Inc. TSLA has launched its non-foundation series Cybertrucks in Canada, with a starting price of C$114,990 ( approx. $79,759 ) for the lower-priced all-wheel drive variant, while simultaneously hiking the price on the foundation series.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Why-It-Matters_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.127988,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.585052",
+                    "ticker_sentiment_score": "0.120026",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is This Ridiculously Cheap Electric Vehicle Stock a Bargain or Trap?",
+            "url": "https://www.fool.com/investing/2025/02/04/is-this-ridiculously-cheap-electric-vehicle-stock/",
+            "time_published": "20250204T113300",
+            "authors": [
+                "Matt Frankel and Tyler Crowe"
+            ],
+            "summary": "General Motors trades for just 4 times earnings and has excellent EV momentum.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806189/buying-a-car-2023.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.076981,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.933751",
+                    "ticker_sentiment_score": "-0.134544",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.641573",
+                    "ticker_sentiment_score": "-0.200535",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Should Invesco Large Cap Growth ETF  ( PWB )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2408875/should-invesco-large-cap-growth-etf-pwb-be-on-your-investing-radar",
+            "time_published": "20250204T112008",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default8.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999994"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.284208,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.298749",
+                    "ticker_sentiment_score": "0.268324",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.121959",
+                    "ticker_sentiment_score": "0.06481",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Cybertruck Headed For A Sales Crash In 2025? Analyst Sounds The Alarm, Predicts Elon Musk-led EV Giant Will Move Less Than A Third Of Street Estimates - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43456592/tesla-researcher-expects-cybertruck-deliveries-to-fall-in-2025-order-backlog-is-gone",
+            "time_published": "20250204T104025",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Tesla Inc. TSLA researcher Troy Teslike expects the EV giant to sell just 21,000 Cybertrucks in 2025, lower than the sales of the stainless steel truck in 2024. What Happened: \"Wall Street analysts estimate 65,000 Cybertruck sales in 2025, but I expect 21,000 units,\" Teslike said in a post on ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Szczecin-poland-may-2022tesla-Cybertruck.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.063697,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.565003",
+                    "ticker_sentiment_score": "0.064444",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Succeeds in Focusing Investors' Attention on the Future",
+            "url": "https://www.fool.com/investing/2025/02/04/tesla-succeeds-in-focusing-investors-attention-to/",
+            "time_published": "20250204T100000",
+            "authors": [
+                "CFA",
+                "Parkev Tatevosian"
+            ],
+            "summary": "Tesla ( NASDAQ: TSLA ) has found a winning formula with investors: consistently shifting attention to the future.*Stock prices used were the afternoon prices of Jan. 30, 2025. The video was published on Feb. 1, 2025.Continue reading ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806172/tesla-sales-center-with-tesla-logo-on-building-for-tesla-sales.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.356117,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.837089",
+                    "ticker_sentiment_score": "-0.559675",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla's Cybertruck Just Got More Affordable Thanks To $7,500 Tax Credit - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43455539/teslas-cybertruck-just-got-more-affordable-thanks-to-7500-tax-credit",
+            "time_published": "20250204T083736",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Tesla Inc. TSLA customers can now avail $7,500 federal EV tax credit on Cybertruck purchases provided they are eligible for it. What Happened: The 2025 all-wheel drive variant of the Cybertruck is eligible for the tax credit, Tesla announced in a post on social media platform X.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Tesla-Unlocks-325-kW-Fast-Charging-For-C.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.088916,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.632565",
+                    "ticker_sentiment_score": "-0.055148",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla's Golden State Struggles: Registrations Decline In US' Largest EV Market For 5th Straight Quarter - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43454267/teslas-golden-state-struggles-registrations-decline-in-us-largest-ev-market-for-5th-straight-quarter",
+            "time_published": "20250204T063255",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "EV giant Tesla Inc. TSLA had 203,221 vehicle registrations in California in 2024, nearly 12% lower than the year before, according to recent industry data. What Happened: \"Things aren't looking so golden for EV automaker Tesla in the Golden State.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Tesla-Tackles-Cybertruck-Blind-Spots-Wit.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.145121,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.704675",
+                    "ticker_sentiment_score": "0.072964",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Jim Chanos Blasts Tesla's Billion-Dollar Subsidies As Cybertruck Secures $7,500 Incentive After Elon Musk's Call To Shut Down USAID - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43454236/short-seller-jim-chanos-calls-out-teslas-billion-dollar-subsidies-as-cybertruck-secures-7500-inc",
+            "time_published": "20250204T063019",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Prominent Wall Street short seller Jim Chanos has called attention to the billions in federal subsidies received by Tesla Inc. TSLA and its customers, amid growing scrutiny of CEO Elon Musk's political activities and declining sales in key markets.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Toronto--On--Canada---October-31--2022-T.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.173278,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.188193",
+                    "ticker_sentiment_score": "0.037137",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Appointed As 'Special Government Employee' Amid DOGE Department Push: 'Can't Do Anything Without Our Approval,' Says Trump - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43452103/elon-musk-appointed-as-special-government-employee-amid-doge-department-push-cant-do-anything-without-our-approva",
+            "time_published": "20250204T002705",
+            "authors": [
+                "Shivdeep Dhaliwal"
+            ],
+            "summary": "The White House has appointed Elon Musk, the wealthiest individual globally, as a \"special government employee.\" This designation allows Musk to be employed by the federal government while potentially sidestepping certain disclosure rules. What Happened: As reported by Reuters, Musk, who ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Elon-Musk-Hosts-X-Spaces-With-Afds-Alice.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.238528,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.183198",
+                    "ticker_sentiment_score": "0.006263",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.271777",
+                    "ticker_sentiment_score": "0.403038",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Vs. JPMorgan: Two Of World's Largest Companies Show How Investors Favor Growth Over Value - Ford Motor  ( NYSE:F ) , General Motors  ( NYSE:GM ) ",
+            "url": "https://www.benzinga.com/25/02/43449494/tesla-vs-jpmorgan-battle-of-growth-vs-value-would-see-tsla-at-3284-and-jpm-at-313966-if-pes-reversed",
+            "time_published": "20250203T213448",
+            "authors": [
+                "Chris Katje"
+            ],
+            "summary": "Tesla trades at a premium valuation to both automotive and technology peers for its P/E ratio. A look at how P/E ratios can vary significantly for both growth and value stocks. Tesla Inc TSLA, the eighth most valuable company in the world, is worth $1.24 trillion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Toronto--On--Canada---October-31--2022-T.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999756"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.238238,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.831429",
+                    "ticker_sentiment_score": "0.360002",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.115232",
+                    "ticker_sentiment_score": "0.088924",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.115232",
+                    "ticker_sentiment_score": "0.088924",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Sales Drop 12% In California: Is Elon Musk's Support For Donald Trump Hurting EV Sales? - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/trading-ideas/25/02/43447273/tesla-sales-drop-12-in-california-is-elon-musks-support-for-donald-trump-hurting-ev-sales",
+            "time_published": "20250203T201200",
+            "authors": [
+                "Chris Katje"
+            ],
+            "summary": "Tesla sales dropped in 2024 in the state of California, America's largest EV market. Tesla sales in the U.S. declined in 2024 as EV sales hit a record. Get Pro-Level Earnings Insights Before the Market Moves Electric vehicle company Tesla Inc TSLA saw sales in California drop in 2024, just as ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Mexico-City--Mexico---Nov-12-2024-Tesla-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.090461,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.793786",
+                    "ticker_sentiment_score": "0.124516",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Tesla Stock Monday? - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43444972/whats-going-on-with-tesla-stock-monday",
+            "time_published": "20250203T184036",
+            "authors": [
+                "Dylan Berman"
+            ],
+            "summary": "The electric vehicle industry may be particularly affected, as companies could depend on imported components like semiconductors. Get Pro-Level Earnings Insights Before the Market Moves Tesla, Inc.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/How-do-vehicle-prices-now-fare-as-compar.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.038246,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.096283",
+                    "ticker_sentiment_score": "0.066914",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.602879",
+                    "ticker_sentiment_score": "-0.092379",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Trim Losses On Mexico Tariff Delay, Gold Extends Records, Tesla Sinks 6%: What's Driving Markets Monday? - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/25/02/43443587/stocks-trim-losses-on-mexico-tariff-delay-gold-extends-records-tesla-sinks-6-whats-driving-markets-monday",
+            "time_published": "20250203T175822",
+            "authors": [
+                "Piero Cingari"
+            ],
+            "summary": "The temporary tariff reprieve on Mexico fuels speculation that Trump may be using tariffs as negotiation tool. Trump is set to speak with Canadian Prime Minister Justin Trudeau at 3 p.m. ET. Get Wall Street's Hottest Chart Every Morning",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Wall-Street-subway-sign.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.126575,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "-0.14467",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PII",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "-0.339557",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "-0.14467",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "-0.14467",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IDXX",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.072217",
+                    "ticker_sentiment_score": "0.021132",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CLX",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.072217",
+                    "ticker_sentiment_score": "-0.068852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.072217",
+                    "ticker_sentiment_score": "-0.068852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "-0.063546",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.143843",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Rivian Stock Dropped Today",
+            "url": "https://www.fool.com/investing/2025/02/03/why-rivian-stock-dropped-today/",
+            "time_published": "20250203T165325",
+            "authors": [
+                "Howard Smith"
+            ],
+            "summary": "The electric vehicle ( EV ) sector is in a state of flux. Some manufacturers are pulling back as demand growth hasn't met or exceeded early expectations. But growth does continue and U.S. EV sales grew 7.3% in 2024 year over year, according to Kelley Blue Book.That's crucial for start-ups like ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806265/rivian-truck-in-front-of-building-with-_rivian-logo_rivian.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.077204,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.265378",
+                    "ticker_sentiment_score": "0.101626",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.13459",
+                    "ticker_sentiment_score": "0.042817",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Trump's Tariffs Are Causing Chaos for Major AI Stocks Like Nvidia, Tesla, and Taiwan Semiconductor",
+            "url": "https://www.fool.com/investing/2025/02/03/why-trumps-tariffs-are-causing-chaos-for-major-ai/",
+            "time_published": "20250203T164700",
+            "authors": [
+                "Bram Berkowitz"
+            ],
+            "summary": "The market sold off this morning after President Donald Trump announced sweeping tariffs over the weekend to take effect Tuesday. The broader benchmark S&P 500 fell over 1.7%, as of 9:55 a.m. ET. Meanwhile, the Dow Jones Industrial Average fell over 600 points and the Nasdaq Composite also fell ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806260/person-concerned-5.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.031365,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.258351",
+                    "ticker_sentiment_score": "-0.121904",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.208017",
+                    "ticker_sentiment_score": "-0.146732",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.104911",
+                    "ticker_sentiment_score": "0.082041",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk's $4 Billion A Day DOGE Plan May Cut Federal Spending 30%; Apple's Spring 2025 Lineup Revealed; Triumph Group To Go Private In $3 Billion Deal - Top Headlines While The U.S. Slept",
+            "url": "https://www.benzinga.com/25/02/43440720/elon-musks-4b-doge-plan-may-cut-federal-spending-30-apples-spring-2025-lineup-revealed-triumph-group-to-go-privat",
+            "time_published": "20250203T163409",
+            "authors": [
+                "Akanksha Bakshi"
+            ],
+            "summary": "Larry Summers Slams Trump's 'Bizarre' Tariffs On Canada And Mexico: 'This Is A Stop-Or-I'll-Shoot-Myself-In-The-Foot Kind Of Policy' Elon Musk's Daily $4 Billion DOGE Target Will Lead To 30% Cut In Federal Spending, Says Economist Jason Furman",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Elon-Musk-Foresees-Drop-In-Bitcoin--Doge.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.059218,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "-0.11926",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "-0.141149",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.090645",
+                    "ticker_sentiment_score": "-0.004284",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.024851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JOUT",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "-0.256183",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "OMI",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.123236",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.204063",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.135602",
+                    "ticker_sentiment_score": "-0.003842",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TGI",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.299363",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SSYS",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.35767",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "-0.141149",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "0.165079",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.224072",
+                    "ticker_sentiment_score": "-0.256062",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.180124",
+                    "ticker_sentiment_score": "-0.256626",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.045396",
+                    "ticker_sentiment_score": "-0.248156",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.224072",
+                    "ticker_sentiment_score": "-0.216929",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "20 stocks leading the stock-market plunge Monday as Trump brings down tariff hammer",
+            "url": "https://www.marketwatch.com/story/20-stocks-leading-the-stock-market-plunge-on-monday-as-trump-brings-down-the-tariff-hammer-3e37ff3c",
+            "time_published": "20250203T160800",
+            "authors": [
+                "Philip van Doorn"
+            ],
+            "summary": "Among the S&P 500, 91% of stocks showed early declines following President Trump's announcements of tariffs against Canada, Mexico and China.",
+            "banner_image": "https://images.mktw.net/im-32561562?width=1260&height=875",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.101788,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.468029",
+                    "ticker_sentiment_score": "-0.025629",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2024's Best-Performing Dow Jones Stock Is 2025's Worst Performer. Is the Sell-Off a Buying Opportunity?",
+            "url": "https://www.fool.com/investing/2025/02/03/nvidia-sell-off-dow-jones-growth-stock-buy/",
+            "time_published": "20250203T144500",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "In November, Nvidia ( NASDAQ: NVDA ) replaced Intel in the Dow Jones Industrial Average. The swap gave the value-focused index more exposure to technology and artificial intelligence ( AI ) . Nvidia was by far the best-performing Dow component in 2024.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805886%2Fgettyimages-2151296647-1201x633-65d4be6.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999921"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.172888,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.040899",
+                    "ticker_sentiment_score": "0.055273",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.162528",
+                    "ticker_sentiment_score": "0.153392",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.081691",
+                    "ticker_sentiment_score": "0.19742",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.761796",
+                    "ticker_sentiment_score": "0.274421",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.040899",
+                    "ticker_sentiment_score": "0.047378",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.040899",
+                    "ticker_sentiment_score": "0.164488",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Wall Street Turns Bullish on GM Post Q4 Earnings: Time to Buy?",
+            "url": "https://www.zacks.com/stock/news/2408281/wall-street-turns-bullish-on-gm-post-q4-earnings-time-to-buy",
+            "time_published": "20250203T142200",
+            "authors": [
+                "Rimmi Singhi"
+            ],
+            "summary": "General Motors' robust U.S. presence, cost-cut efforts, EV innovation, attractive valuation and positive earnings estimate revisions make us bullish on the stock.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8e/65924.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.990786"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.335722,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.043579",
+                    "ticker_sentiment_score": "0.182976",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.087027",
+                    "ticker_sentiment_score": "0.191904",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.791185",
+                    "ticker_sentiment_score": "0.520656",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "LAC",
+                    "relevance_score": "0.043579",
+                    "ticker_sentiment_score": "0.09601",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is Trending Stock Tesla, Inc.  ( TSLA )  a Buy Now?",
+            "url": "https://www.zacks.com/stock/news/2408149/is-trending-stock-tesla-inc-tsla-a-buy-now",
+            "time_published": "20250203T140016",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tesla (TSLA) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default355.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.217418,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.489394",
+                    "ticker_sentiment_score": "0.129245",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "LiveOne  ( NASDAQ: LVO )  and Telly Partner to Elevate the Home Entertainment Experience - LiveOne  ( NASDAQ:LVO ) , PodcastOne  ( NASDAQ:PODC ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43431792/liveone-nasdaq-lvo-and-telly-partner-to-elevate-the-home-entertainment-experience",
+            "time_published": "20250203T130000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "LOS ANGELES, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- LiveOne LVO, an award-winning, creator-first music, entertainment, and technology platform, announced today that it has partnered with Telly, the world's smartest TV offered at the revolutionary price of free, to deliver an unmatched dual-screen ...",
+            "banner_image": "https://ml.globenewswire.com/media/f8d31287-dff9-48a4-b04d-fa3f60642d1f/small/download-1-png.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.431634,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.087007",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.088101",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.088101",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.087007",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.087007",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LVO",
+                    "relevance_score": "0.759442",
+                    "ticker_sentiment_score": "0.61639",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.087007",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PODC",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.098463",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk's Tesla Could Import Model Y Into Canada Via Berlin As Trudeau, Trump Amp Up The Trade War With Tariffs And Counter Tariffs, Says Researcher - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/02/43431558/elon-musks-tesla-to-shift-model-y-exports-to-canada-via-berlin-as-trudeau-trump-amp",
+            "time_published": "20250203T125359",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Tesla Inc TSLA researcher Troy Teslike now expects Tesla to start shipping Model Ys from its gigafactory in Berlin after Canada announced retaliatory tariffs on imports from the U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/trump-trudeau-shutter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.028547,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.647216",
+                    "ticker_sentiment_score": "-0.133801",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla, Nvidia, GM And Other Big Stocks Moving Lower In Monday's Pre-Market Session - Bausch Health Companies  ( NYSE:BHC ) , AleAnna  ( NASDAQ:ANNA ) ",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/02/43431424/tesla-nvidia-gm-and-other-big-stocks-moving-lower-in-mondays-pre-market-session",
+            "time_published": "20250203T124634",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stock futures were lower this morning, with the Dow futures falling around 500 points on Monday. Shares of Tesla, Inc. TSLA fell sharply in today's pre-market trading.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Tesla-Inc-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.779048"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": -0.155916,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.456916",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.456916",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "HUT",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.456916",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "CURV",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.023155",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CIFR",
+                    "relevance_score": "0.342487",
+                    "ticker_sentiment_score": "-0.069555",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KRNT",
+                    "relevance_score": "0.342487",
+                    "ticker_sentiment_score": "0.156321",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.445569",
+                    "ticker_sentiment_score": "-0.283884",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "-0.032632",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BHC",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.116666",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBRX",
+                    "relevance_score": "0.342487",
+                    "ticker_sentiment_score": "-0.25118",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ANNA",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.116666",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UIS",
+                    "relevance_score": "0.342487",
+                    "ticker_sentiment_score": "-0.228328",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "BTDR",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LION",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "-0.456916",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Meet the Supercharged Growth Stock That Could Make You a Millionaire",
+            "url": "https://www.fool.com/investing/2025/02/03/meet-the-supercharged-growth-stock-that-could-make/",
+            "time_published": "20250203T114500",
+            "authors": [
+                "James Brumley"
+            ],
+            "summary": "Artificial intelligence is still an incredible opportunity. But its next big winners aren't necessarily the big winners from the past.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805912%2F013025-arista-networks-past-projected.png&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.241187,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.056522",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ANET",
+                    "relevance_score": "0.248259",
+                    "ticker_sentiment_score": "0.171074",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.042048",
+                    "ticker_sentiment_score": "0.034914",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNPR",
+                    "relevance_score": "0.042048",
+                    "ticker_sentiment_score": "0.101529",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "1 Actively Managed Artificial Intelligence ETF to Buy Hand Over Fist and 1 to Avoid",
+            "url": "https://www.fool.com/investing/2025/02/03/1-actively-managed-artificial-intelligence-etf-to/",
+            "time_published": "20250203T114300",
+            "authors": [
+                "Matt Frankel"
+            ],
+            "summary": "It's not hard to see that artificial intelligence, or AI, is a massive opportunity. That's why I want exposure to AI stocks in my portfolio.The problem is that I'm a value investor at heart and am best suited at evaluating bank stocks, real estate investment trusts, and consumer goods businesses.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805852/data-center-2022-b.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.326501,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IRDM",
+                    "relevance_score": "0.139669",
+                    "ticker_sentiment_score": "0.120627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TER",
+                    "relevance_score": "0.139669",
+                    "ticker_sentiment_score": "0.120627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RKLB",
+                    "relevance_score": "0.139669",
+                    "ticker_sentiment_score": "0.120627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACHR",
+                    "relevance_score": "0.139669",
+                    "ticker_sentiment_score": "0.120627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.139669",
+                    "ticker_sentiment_score": "0.120627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.139669",
+                    "ticker_sentiment_score": "0.043532",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Former Tesla Exec Slams Trump Tariffs: 'Lumping Mexico, Canada With China Is Just Stupid' - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43429276/former-tesla-exec-slams-trump-tariffs-lumping-mexicocanada-with-china-is-just-stupid",
+            "time_published": "20250203T111338",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Former Tesla Inc. executive Rohan Patel on Sunday slammed President Donald Trump's decision to impose new tariffs of 25% on goods from Mexico and Canada and 10% on imports from China. What Happened: \"Lumping Mexico/Canada with China is just stupid,\" Patel said in a post on social media platform X.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Cargo-Container-Ship--Cargo-Vessel-Ship-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.036515,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.074001",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.147366",
+                    "ticker_sentiment_score": "0.036235",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.289748",
+                    "ticker_sentiment_score": "-0.120572",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "DeepSeek Shocked the AI Market Last Week. Here's Why Nvidia's Latest Move Should Crush the Panic.",
+            "url": "https://www.fool.com/investing/2025/02/03/deepseek-shocked-the-ai-market-last-week-heres-why/",
+            "time_published": "20250203T104500",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) is known for its dominance in artificial intelligence ( AI ) chips, holding about 80% of the market. The company sells the world's most expensive AI chips -- or graphics processing units ( GPUs ) -- but customers are willing to pay the price thanks to these products' top ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806162%2Fgettyimages-1316264191.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.188904,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.050465",
+                    "ticker_sentiment_score": "0.128293",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.81619",
+                    "ticker_sentiment_score": "0.32567",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.050465",
+                    "ticker_sentiment_score": "0.128293",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}
