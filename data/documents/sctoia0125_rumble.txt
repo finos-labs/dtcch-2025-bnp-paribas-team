@@ -1,0 +1,582 @@
+
+SC TO-I/A
+1
+sctoia0125_rumble.htm
+ISSUER TENDER OFFER
+
+
+
+
+  
+ SECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549
+_______________________________
+Amendment No. 1toSCHEDULE TO(Rule 13e-4)
+Tender Offer Statement under Section 14(d)(1) or 13(e)(1)of the Securities Exchange Act of 1934
+_______________________________
+Rumble Inc.(Name of Subject Company (Issuer))
+_______________________________
+
+
+
+Title of Class of Securities
+
+ 
+
+CUSIP Number of Class of Securities
+
+
+
+
+Class A Common Stock, par value $0.0001 per share
+
+ 
+
+78137L105
+
+
+
+_______________________________
+Christopher PavlovskiChief Executive Officer and ChairmanRumble Inc.444 Gulf of Mexico DrLongboat Key, Florida 34228Telephone: (941) 210-0196(Name, Address and Telephone Number of Person Authorized to Receive Notices and Communications on Behalf of the Filing Person(s) Filing Statement)
+_______________________________
+Copies to:Russell L. LeafSean M. EwenJulian D. GolayWillkie Farr & Gallagher LLP787 Seventh AvenueNew York, New York 10019(212) 728-8000
+Michael EllisRumble Inc.444 Gulf of Mexico DrLongboat Key, Florida 34228(941) 210-0196
+_______________________________
+Filing Fee Exhibit filed herewith.
+
+
+
+☐
+
+ 
+
+Check box if the filing relates solely to preliminary communications made before the commencement of a tender offer.
+
+
+
+Check the appropriate boxes to designate any transactions to which the statement relates:
+
+
+
+
+ 
+
+☐
+
+ 
+
+third-party tender offer subject to Rule 14d-1 
+
+
+
+ 
+ 
+
+☒
+
+ 
+
+issuer tender offer subject to Rule 13e-4 
+
+
+
+ 
+ 
+
+☐
+
+ 
+
+going-private transaction subject to Rule 13e-3 
+
+
+
+ 
+ 
+
+☐
+
+ 
+
+amendment to Schedule 13D under Rule 13d-2 
+
+
+
+Check the following box if the filing is a final amendment reporting the results of the tender offer. ☐
+If applicable, check the appropriate box(es) below to designate the appropriate rule provision(s) relied upon:
+
+
+
+
+ 
+
+☐
+
+ 
+
+Rule 13e-4(i) (Cross-Border Issuer Tender Offer)
+
+
+
+ 
+ 
+
+☐
+
+ 
+
+Rule 14d-1(d) (Cross-Border Third-Party Tender Offer)
+
+
+
+ 
+
+ 
+
+This Amendment No. 1 (“Amendment No. 1”) amends and supplements the Tender Offer Statement on Schedule TO (as it may be further amended or supplemented from time to time, the “Schedule TO”), initially filed by Rumble Inc., a Delaware corporation (“Rumble” or the “Company”), on January 3, 2025, pursuant to Rule 13e-4 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), in connection with the Company’s offer to purchase for cash up to 70,000,000 shares of Class A common stock, par value $0.0001 per share (the “Class A Common Stock” or the “Shares”) at a price of $7.50 per share (the “Purchase Price”), less any applicable withholding taxes and without interest, upon the terms and subject to the conditions set forth in the Offer to Purchase, dated January 3, 2025 (the “Offer to Purchase”), and the related Letter of Transmittal (the “Letter of Transmittal” and, together with the Offer to Purchase, as they may be amended and supplemented from time to time, the “Offer”).
+This Amendment No. 1 is intended to satisfy the reporting requirements of Rule 13e-4(c)(3) promulgated under the Exchange Act. Except as otherwise set forth below in this Amendment No. 1, the information set forth in the Schedule TO, including all exhibits thereto that were previously filed with the Schedule TO, remains unchanged and is incorporated by reference as relevant to the items in this Amendment No. 1.
+Forward-Looking Statements in the Offer to Purchase
+(1)    The first sentence of the section entitled “Forward-Looking Statements” of the Offer to Purchase is hereby amended and restated as follows:
+Certain statements in this Offer to Purchase, the Letter of Transmittal or any document incorporated by reference constitute forward-looking statements and therefore are subject to risks and uncertainties; however, we note that the safe-harbor protections for forward-looking statements in the U.S. Private Securities Litigation Reform Act of 1995 do not apply to statements made in connection with a tender offer.
+Item 1.       Summary Term Sheet
+Item 1, to the extent it incorporates by reference information contained in the Offer to Purchase, is hereby amended as follows:
+(1)    The following sentence is added to the end of the subsection under the caption “Once I have tendered Shares in the Offer, can I withdraw my tender?” in the section entitled “Summary Term Sheet” of the Offer to Purchase:
+If we have not accepted for payment the Shares you have tendered by 11:59 p.m., New York City time, on March 4, 2025, you may also withdraw such Shares at any time thereafter.
+(2)    The subsection under the caption “How will the Company pay for the Shares?” in the section entitled “Summary Term Sheet” of the Offer to Purchase is hereby amended as follows:
+(a)     The third and fourth sentences of the first paragraph of such subsection are amended and restated as follows:
+The Offer is subject to completion of the Strategic Investment (the “Strategic Investment Condition”), and the Strategic Investment itself is subject to certain closing conditions as set forth in the Transaction Agreement, as summarized in the paragraph below. This means that if the Strategic Investment Condition is not satisfied (including if any of the conditions to the Strategic Investment are not satisfied), we will not be required to complete the Offer.
+(b)    The following paragraph is added after the first full paragraph of such subsection:
+As noted above, the closing of the Strategic Investment is subject to customary closing conditions as set forth in the Transaction Agreement, including, among others, (i) at least 20 days having elapsed since the mailing of an information statement with respect to the Transaction to the extent shareholder approval is required by applicable NASDAQ rules (which shareholder approval has been obtained via the written consent of Christopher Pavlovski and his affiliates, who hold a majority of the voting power of our outstanding voting capital stock), (ii) the approval of the Shares being issued in the Strategic Investment for listing on NASDAQ, (iii) no applicable law shall prohibit or make illegal the consummation of the Transaction or shall be enacted or enforced that delays materially or otherwise 
+
+
+1
+
+restrains or prohibits the Transaction, (iv) the accuracy of the representations and warranties of the Company (subject to certain bring-down standards), (v) performance of covenants by the Company in all material respects at or prior to the closing, (vi) no occurrence of a “material adverse effect” with respect to the Company, (vii) each Supporting Stockholder shall have tendered in the Offer the minimum number of Shares it is required to tender in the Offer pursuant to the Tender and Support Agreements, and (viii) the execution of the Registration Rights Agreement.
+(3)    The subsection under the caption “What are the conditions to the Offer?” in the section entitled “Summary Term Sheet” of the Offer to Purchase is hereby amended as follows:
+(a)     The first paragraph of such subsection is amended and restated as follows:
+Our obligation to accept for payment and pay for your tendered Shares is subject to a number of conditions, including the completion of the Strategic Investment (which itself is subject to certain closing conditions as set forth in the Transaction Agreement, as summarized in the paragraph below), that must be satisfied in our reasonable judgment or waived by us prior to the Expiration Time. This means that if the Strategic Investment Condition is not satisfied (including if any of the conditions to the Strategic Investment are not satisfied), we will not be required to complete the Offer. See Sections 2, 6 and 8.
+(b)    The following paragraph is added after the first full paragraph of such subsection:
+The Strategic Investment is subject to customary closing conditions as set forth in the Transaction Agreement, including, among others, (i) at least 20 days having elapsed since the mailing of an information statement with respect to the Transaction to the extent shareholder approval is required by applicable NASDAQ rules (which shareholder approval has been obtained via the written consent of Christopher Pavlovski and his affiliates, who hold a majority of the voting power of our outstanding voting capital stock), (ii) the approval of the Shares being issued in the Strategic Investment for listing on NASDAQ, (iii) no applicable law shall prohibit or make illegal the consummation of the Transaction or shall be enacted or enforced that delays materially or otherwise restrains or prohibits the Transaction, (iv) the accuracy of the representations and warranties of the Company (subject to certain bring-down standards), (v) performance of covenants by the Company in all material respects at or prior to the closing, (vi) no occurrence of a “material adverse effect” with respect to the Company, (vii) each Supporting Stockholder shall have tendered in the Offer the minimum number of Shares it is required to tender in the Offer pursuant to the Tender and Support Agreements, and (viii) the execution of the Registration Rights Agreement.
+Item 4.       Terms of the Transaction
+Item 4, to the extent it incorporates by reference information contained in the Offer to Purchase, is hereby amended as follows:
+(1)    The changes described above in Item 1 of this Amendment No. 1 are hereby incorporated into this Item 4 by reference.
+(2)    The following paragraph is added after the second full paragraph under the caption “6. Conditions of the Offer” of the Offer to Purchase:
+As noted above, the Offer is subject to completion of the Strategic Investment (which we refer to as the Strategic Investment Condition), and the Strategic Investment itself is subject to customary closing conditions as set forth in the Transaction Agreement, including, among others, (i) at least 20 days having elapsed since the mailing of an information statement with respect to the Transaction to the extent shareholder approval is required by applicable NASDAQ rules (which shareholder approval has been obtained via the written consent of Christopher Pavlovski and his affiliates, who hold a majority of the voting power of our outstanding voting capital stock), (ii) the approval of the Shares being issued in the Strategic Investment for listing on NASDAQ, (iii) no applicable law shall prohibit or make illegal the consummation of the Transaction or shall be enacted or enforced that delays materially or otherwise restrains or prohibits the Transaction, (iv) the accuracy of the representations and warranties of the Company (subject to certain bring-down standards), (v) performance of covenants by the Company in all 
+
+
+2
+
+material respects at or prior to the closing, (vi) no occurrence of a “material adverse effect” with respect to the Company, (vii) each Supporting Stockholder shall have tendered in the Offer the minimum number of Shares it is required to tender in the Offer pursuant to the Tender and Support Agreements, and (viii) the execution of the Registration Rights Agreement.
+Item 12.     Exhibits
+
+
+
+(a)(1)(A)
+
+ 
+
+Offer to Purchase, dated January 3, 2025.*
+
+
+
+
+(a)(1)(B)
+
+ 
+
+Letter of Transmittal, dated January 3, 2025.*
+
+
+
+
+(a)(1)(C)
+
+ 
+
+Notice of Guaranteed Delivery.*
+
+
+
+
+(a)(1)(D)
+
+ 
+
+Letter to Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees, dated January 3, 2025.*
+
+
+
+
+(a)(1)(E)
+
+ 
+
+Letter to Clients for use by Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees, dated January 3, 2025.*
+
+
+
+
+(a)(1)(F)
+
+ 
+
+Notice to Certain Holders of Stock Options, dated January 3, 2025.*
+
+
+
+
+(a)(2)
+
+ 
+
+Not Applicable.
+
+
+
+
+(a)(3)
+
+ 
+
+Not Applicable.
+
+
+
+
+(a)(4)
+
+ 
+
+Not Applicable.
+
+
+
+
+(a)(5)(A)
+
+ 
+
+Press Release, dated December 20, 2024 (incorporated herein and filed as Exhibit 99.1 of the Company’s Current Report on Form 8-K filed on December 20, 2024).
+
+
+
+
+(b)
+
+ 
+
+Not applicable.
+
+
+
+
+(d)(1)
+
+ 
+
+Letter Agreement, dated November 4, 2021, by and between Rumble USA Inc. and Michael Ellis (incorporated by reference to Exhibit 10.11 to CF Acquisition Corp. VI’s Amendment No. 2 to Registration Statement on Form S-4 filed on June 17, 2022).
+
+
+
+
+(d)(2)
+
+ 
+
+Letter Agreement, dated July 26, 2021, by and between Rumble USA Inc. and Tyler Hughes (incorporated by reference to Exhibit 10.12 to CF Acquisition Corp. VI’s Amendment No. 2 to Registration Statement on Form S-4 filed on June 17, 2022).
+
+
+
+
+(d)(3)
+
+ 
+
+Form of Restricted Class Common Share Ownership Agreement (incorporated by reference to Exhibit 10.13 to CF Acquisition Corp. VI’s Amendment No. 2 to Registration Statement on Form S-4 filed on June 17, 2022).
+
+
+
+
+(d)(4)
+
+ 
+
+Amended and Restated Registration Rights Agreement, dated September 16, 2022, by and among the Company, Sponsor and the other parties named therein (incorporated by reference to Exhibit 10.9 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(5)
+
+ 
+
+Warrant Assignment, Assumption and Amendment Agreement, dated September 16, 2022, by and among the Company, Computershare Inc., Computershare Trust Company, N.A., and Continental Stock Transfer & Trust Company (incorporated by reference to Exhibit 4.3 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(6)
+
+ 
+
+Sponsor Support Agreement dated December 1, 2021, by and among CF Acquisition Corp. VI, CFAC Holdings VI, LLC and Rumble Inc. (incorporated by reference to Annex E to the Proxy Statement/Prospectus filed on August 12, 2022).
+
+
+
+
+(d)(7)
+
+ 
+
+Exchange and Support Agreement, dated September 16, 2022, by and among the Company, ExchangeCo, 1000045707 Ontario Inc. and the shareholders of ExchangeCo who hold ExchangeCo Shares (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(8)
+
+ 
+
+Employment Agreement by and between Rumble Inc. and Christopher Pavlovski, effective as of September 16, 2022 (incorporated by reference to Exhibit 10.17 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(9)
+
+ 
+
+Letter Agreement, dated as of September 16, 2022 by and between Christopher Pavlovski and Rumble Inc. amending Mr. Pavlovski’s employment agreement with Rumble Inc. (incorporated by reference to Exhibit 10.19 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(10)
+
+ 
+
+Restricted Stock Unit Grant Notice and Agreement by and between Rumble Inc. and Christopher Pavlovski, dated as of September 16, 2022 (incorporated by reference to Exhibit 10.20 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(11)
+
+ 
+
+Employment Agreement, dated November 16, 2022, by and between Rumble Inc. and Michael Ellis (incorporated by reference to Exhibit 10.1 to Current Report on Form 8-K filed on November 21, 2022).
+
+
+
+
+3
+
+
+
+
+(d)(12)
+
+ 
+
+Employment Agreement, dated November 16, 2022, by and between Rumble Inc. and Brandon Alexandroff. (incorporated by reference to Exhibit 10.2 to Current Report on Form 8-K filed on November 21, 2022).
+
+
+
+
+(d)(13)
+
+ 
+
+Employment Agreement, dated November 16, 2022, by and between Rumble Inc. and Tyler Hughes. (incorporated by reference to Exhibit 10.3 to Current Report on Form 8-K filed on November 21, 2022).
+
+
+
+
+(d)(14)
+
+ 
+
+Controlled Equity OfferingSM Sales Agreement, dated October 18, 2024, by and between Rumble Inc. and Cantor Fitzgerald & Co. (incorporated by reference to Exhibit 1.2 to the Company’s Registration on Form S-3 filed on October 18, 2024, and under which the Company has suspended all sales during the pendency of the Offer and terminated the applicable at-the-market offering prospectus supplement).
+
+
+
+
+(d)(15)
+
+ 
+
+Rumble Inc. 2022 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company’s Current Report on Form 10-Q filed on November 14, 2022).
+
+
+
+
+(d)(16)
+
+ 
+
+Rumble Inc. Second Amended and Restated Stock Option Plan (incorporated by reference to Exhibit 10.6 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(17)
+
+ 
+
+Form of Restricted Stock Unit Award Agreement in respect of the Rumble Inc. 2022 Stock Incentive Plan (Executives) (incorporated by reference to Exhibit 10.6 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(18)
+
+ 
+
+Form of Restricted Stock Unit Award Agreement in respect of the Rumble Inc. 2022 Stock Incentive Plan (Directors) (incorporated by reference to Exhibit 10.7 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(19)
+
+ 
+
+Form of Option Award Agreement in respect of the Rumble Inc. 2022 Stock Incentive Plan (Executives) (incorporated by reference to Exhibit 10.8 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(20)
+
+ 
+
+Form of Option Award Agreement in respect of the Second Amended and Restated Stock Option Plan (Time-Based Vesting) (incorporated by reference to Exhibit 10.10 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(21)
+
+ 
+
+Form of Option Award Agreement in respect of the Second Amended and Restated Stock Option Plan (Cliff Vesting) (incorporated by reference to Exhibit 10.11 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(22)
+
+ 
+
+Form of Option Award Agreement in respect of the Second Amended and Restated Stock Option Plan (Fully Vested) (incorporated by reference to Exhibit 10.12 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(23)
+
+ 
+
+Restricted Stock Grant Notice and Agreement by and between Rumble In. and Assaf Lev, dated as of November 24, 2021 (incorporated by reference to Exhibit 10.13 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(24)
+
+ 
+
+Business Combination Agreement, dated as of December 1, 2021, by and between CF Acquisition Corp. VI and Rumble Inc. (incorporated by reference to Annex A to the Proxy Statement/Prospectus filed on August 12, 2022).+
+
+
+
+
+(d)(25)
+
+ 
+
+Transaction Agreement, dated December 20, 2024, by and between Rumble Inc. and Tether Investments Limited (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on December 23, 2024).+
+
+
+
+
+(d)(26)
+
+ 
+
+Form of Tender and Support Agreement, dated as of December 20, 2024 (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on December 23, 2024).
+
+
+
+
+(g)
+
+ 
+
+Not Applicable.
+
+
+
+
+(h)
+
+ 
+
+Not Applicable.
+
+
+
+____________ *        Previously filed as exhibits to the initial Schedule TO filed on January 3, 2025.
+Item 12(b). Filing Fees.
+Filing Fee Exhibit.
+Item 13.      Information required by Schedule 13E-3
+Not applicable.
+
+4
+
+SIGNATURE
+After due inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+
+
+Dated: January 14, 2025 
+
+ 
+
+RUMBLE INC.
+
+
+
+ 
+ 
+
+By:
+
+ 
+
+/s/ Michael Ellis
+
+
+
+ 
+ 
+ 
+ 
+
+Michael Ellis
+
+
+
+ 
+ 
+ 
+ 
+
+General Counsel and Corporate Secretary
+
+
+
+
+5
+
+
+

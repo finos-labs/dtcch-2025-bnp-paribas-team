@@ -1,0 +1,228 @@
+
+8-K
+1
+d753779d8k.htm
+8-K
+
+8-K
+
+ 
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+WASHINGTON, D.C. 20549  
+  FORM 8-K  
+  CURRENT
+REPORT  Pursuant to Section 13 or 15(d) 
+of The Securities Exchange Act of 1934 
+Date of Report (Date of earliest event reported): May 17, 2019
+   
+Orexigen Therapeutics, Inc. 
+(Exact name of registrant as specified in charter)  
+   
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-33415
+ 
+65-1178822
+
+ (State or other jurisdiction
+of incorporation)
+ 
+ (Commission
+File Number)
+ 
+ (IRS Employer
+Identification No.)
+  
+
+
+
+
+
+
+3344 N. Torrey Pines Ct., Suite 200, La Jolla, CA
+  
+92037
+
+(Address of principal executive offices)
+  
+(Zip Code)
+ Registrant’s telephone number, including area code: (858)
+875-8600  (Former name or former address, if changed since last report.)
+   
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):   
+
+
+☐
+ Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)   
+
+
+☐
+ Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))   
+
+
+☐
+ Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading
+Symbol(s)
+ 
+ Name of each exchange on which registered
+
+None
+ 
+ N/A
+ 
+N/A
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). 
+Emerging growth company  ☐  If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.  ☐     
+ 
+
+
+
+
+
+
+Item 1.03.
+ Bankruptcy or Receivership. 
+As previously disclosed, on March 12, 2018, Orexigen Therapeutics, Inc. (the “Company”) filed a voluntary petition for
+bankruptcy protection under Chapter 11 of Title 11 of the United States Bankruptcy Code in the United States Bankruptcy Court for the District of Delaware (the “Bankruptcy Court”) (Case
+No. 18-10518). On May 17, 2019, the Bankruptcy Court entered an order (the “Confirmation Order”) confirming the Debtor’s Modified Amended Plan of Liquidation (the “Plan of
+Liquidation”) filed by the Company. A copy of the Plan of Liquidation is filed as Exhibit 2.1 to this Current Report on Form 8-K and incorporated by reference into this Item 1.03. 
+Summary of Plan  The Plan of
+Liquidation, as confirmed by the Bankruptcy Court, creates seven classes of claims against and interests in the Company. Holders of allowed claims in Class 1 (Priority Claims), Class 2 (Other Secured Claims), Class 3 (Prepetition
+Secured Noteholder Claims), and Class 4 (General Unsecured Claims), are entitled to receive distributions under the Plan of Liquidation. If all General Unsecured Claims are paid in full (which is not anticipated), holders of allowed claims in
+Class 5 (Prepetition Secured Noteholder Subordinated Deficiency Claim) would be entitled to receive a distribution under the Plan of Liquidation. In addition, the Company will be paying Administrative Expense Claims, Professional Fee Claims and
+Priority Tax Claims under the Plan of Liquidation. Pursuant to the Plan of Liquidation, upon the effectiveness thereof, a wind down entity will be formed in the form of a liquidating trust to liquidate the Company’s remaining assets and pursue
+certain causes of action held by the Company and other recoveries for the benefit of unsecured creditors and the Company’s prepetition secured noteholders, as applicable. The Plan of Liquidation also implements the terms of certain settlements
+among various creditor constituencies, without which the Company believes recoveries to creditors would be materially reduced. Certain reserves will be created by the wind down entity for purposes of resolving disputed claims and ongoing disputes,
+and funding various costs and expenses associated with the administration of the wind down entity and Plan of Liquidation.  The Plan of
+Liquidation further provides that all outstanding equity interests in the Company will be cancelled for no consideration on the effective date of the Plan of Liquidation. As of May 17, 2019, the Company had 18,887,033 shares of common stock
+issued and outstanding, 219,994 shares of Series Z Preferred Stock issued and outstanding, and no shares reserved for future issuance in respect of claims and interests filed and allowed under the Plan of Liquidation. 
+The Plan of Liquidation will become effective on the first business day on which the following conditions have been satisfied or waived:
+(i) the Confirmation has been entered by the Bankruptcy Court and has become final; and (ii) the wind down entity has been created. The Company anticipates the effective date of the Plan of Liquidation will occur on or around May 31,
+2019.  Assets and Liabilities 
+As of March 31, 2019, the Company had total assets of $33,072 and total liabilities of $252,569, as disclosed in the Company’s most
+recent monthly operating report filed with the Bankruptcy Court on April 29, 2019 and furnished as Exhibit 99.1 to the Company’s Current Report on Form 8-K furnished on May 3, 2019. 
+Cautionary Statements Regarding Trading in the Company’s Securities 
+The Company’s securityholders are cautioned that trading in the Company’s securities during the pendency of the Chapter 11 process
+will be highly speculative and will pose substantial risks. Trading prices for the Company’s securities may bear little or no relationship to the actual recovery, if any, by holders thereof in the Company’s Chapter 11 process. Accordingly,
+the Company urges extreme caution with respect to existing and future investments in its securities. As noted above, the Plan of Liquidation will cause all outstanding equity interests in the Company to be cancelled on the effective date of the Plan
+of Liquidation.  Cautionary Statement Regarding Forward-Looking Statements 
+This Current Report on Form 8-K and Exhibit 99.1 hereto may contain “forward-looking
+statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are those involving future events and future results that are based on current expectations, estimates, forecasts, and
+projections as well as the current beliefs and assumptions of the Company’s management. We often use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,”
+“believe,” “may,” “predict,” “will,” “would,” “could,” “should,” “target” and similar expressions to identify forward-looking statements. All statements contained in
+this Current Report and exhibits hereto that are not statements of historical fact and other estimates, projections, future trends and the outcome of events that have not yet occurred referenced in this Current Report and exhibits hereto should be
+considered forward-looking statements. Actual results or events could differ materially from those indicated in forward-looking statements as a result of risks and uncertainties, including, among others, the potential adverse impact of the Chapter
+11 filings on our liquidity or results of operations, changes in our ability to meet financial obligations during the Chapter 11 process or to maintain contracts that are critical to our operations, the outcome or timing of the Chapter 11 process,
+the effect of the Chapter 11 filings or related asset sale on our relationships with third parties, regulatory authorities and employees, proceedings that may be brought by third parties in connection with the Chapter 11 process and the timing or
+amount of any distributions to the Company’s stakeholders. Many of such factors relate to events and circumstances that are beyond the Company’s control. You should not place undue reliance on forward-looking statements. The Company does
+not assume any obligation to update the information contained in this Current Report or exhibits hereto. 
+
+
+
+
+Additional Information regarding the Chapter 11 Case 
+Additional information about the Chapter 11 process and Plan of Liquidation, as well as other documents related to the case, is available
+through the Company’s claims agent Kurtzman Carson Consultants LLC at www.kccllc.net/orexigen. Information contained on, or that can be accessed through, such web site or the Bankruptcy Court’s web site is not part of this
+Current Report.   
+
+
+Item 9.01.
+ Financial Statements and Exhibits. 
+ 
+
+
+(d)
+     Exhibits. 
+ 
+
+
+2.1
+     Debtor’s Modified Amended Plan of Liquidation. 
+
+
+
+
+
+SIGNATURES 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+OREXIGEN THERAPEUTICS, INC.
+
+
+
+
+
+
+Date: May 23, 2019
+ 
+
+ 
+By:
+ 
+/s/ Thomas P. Lynch
+
+
+ 
+
+ 
+Name:
+ 
+Thomas P. Lynch
+
+
+ 
+
+ 
+Title:
+ 
+Chief Administrative Officer, General Counsel, President, Secretary and Treasurer
+
+
+
+

@@ -1,0 +1,600 @@
+
+SC TO-I
+1
+sctoi0125_rumble.htm
+TENDER OFFER
+
+
+
+
+  
+ SECURITIES AND EXCHANGE COMMISSIONWASHINGTON, D.C. 20549
+_______________________________
+SCHEDULE TO(Rule 13e-4)
+Tender Offer Statement under Section 14(d)(1) or 13(e)(1)of the Securities Exchange Act of 1934
+_______________________________
+Rumble Inc.(Name of Subject Company (Issuer))
+_______________________________
+
+
+
+Title of Class of Securities
+
+ 
+
+CUSIP Number of Class of Securities
+
+
+
+
+Class A Common Stock, par value $0.0001 per share
+
+ 
+
+78137L105
+
+
+
+_______________________________
+Christopher PavlovskiChief Executive Officer and ChairmanRumble Inc.444 Gulf of Mexico DrLongboat Key, Florida 34228Telephone: (941) 210-0196(Name, Address and Telephone Number of Person Authorized to Receive Notices and Communications on Behalf of the Filing Person(s) Filing Statement)
+_______________________________
+Copies to:Russell L. LeafSean M. EwenJulian D. GolayWillkie Farr & Gallagher LLP787 Seventh AvenueNew York, New York 10019(212) 728-8000
+Michael EllisRumble Inc.444 Gulf of Mexico DrLongboat Key, Florida 34228(941) 210-0196
+_______________________________
+Filing Fee Exhibit filed herewith.
+
+
+
+☐
+
+ 
+
+Check box if the filing relates solely to preliminary communications made before the commencement of a tender offer.
+
+
+
+Check the appropriate boxes to designate any transactions to which the statement relates:
+
+
+
+
+ 
+
+☐
+
+ 
+
+third-party tender offer subject to Rule 14d-1 
+
+
+
+ 
+ 
+
+☒
+
+ 
+
+issuer tender offer subject to Rule 13e-4 
+
+
+
+ 
+ 
+
+☐
+
+ 
+
+going-private transaction subject to Rule 13e-3 
+
+
+
+ 
+ 
+
+☐
+
+ 
+
+amendment to Schedule 13D under Rule 13d-2 
+
+
+
+Check the following box if the filing is a final amendment reporting the results of the tender offer. ☐
+If applicable, check the appropriate box(es) below to designate the appropriate rule provision(s) relied upon:
+
+
+
+
+ 
+
+☐
+
+ 
+
+Rule 13e-4(i) (Cross-Border Issuer Tender Offer)
+
+
+
+ 
+ 
+
+☐
+
+ 
+
+Rule 14d-1(d) (Cross-Border Third-Party Tender Offer)
+
+
+
+ 
+
+ 
+
+This Issuer Tender Offer Statement on Schedule TO (this “Schedule TO”) relates to the offer by Rumble Inc., a Delaware corporation (“Rumble” or the “Company”), to purchase for cash up to 70,000,000 shares of Class A common stock, par value $0.0001 per share (the “Class A Common Stock” or the “Shares”) at a price of $7.50 per share (the “Purchase Price”), less any applicable withholding taxes and without interest, upon the terms and subject to the conditions set forth in the Offer to Purchase, dated January 3, 2025 (the “Offer to Purchase”), a copy of which is attached hereto as Exhibit (a)(1)(A), and the related Letter of Transmittal (the “Letter of Transmittal” and, together with the Offer to Purchase, as they may be amended and supplemented from time to time, the “Offer”), a copy of which is attached hereto as Exhibit (a)(1)(B).
+This Schedule TO is being filed in satisfaction of the reporting requirements of Rule 13e-4(c)(2) promulgated under the Securities Exchange Act of 1934 (as amended, the “Exchange Act”).
+All information in the Offer to Purchase and the related Letter of Transmittal hereby is expressly incorporated by reference in answer to all items in this Schedule TO, and as more particularly set forth below.
+Item 1.       Summary Term Sheet
+The information set forth under “Summary Term Sheet” in the Offer to Purchase is incorporated herein by reference.
+Item 2.       Subject Company Information
+(a)     The name of the subject company and the issuer of the securities to which this Schedule TO relates is Rumble Inc., a Delaware corporation, and the address of its principal executive office is 444 Gulf of Mexico Drive, Longboat, Florida 34228. The telephone number at such principal executive office is (941) 210-0196.
+(b)    The title of class of equity securities to which this Schedule TO relates is the Class A common stock, par value $0.0001 per share, of the Company. As of December 27, 2024, prior to giving effect to the Strategic Investment (as defined in the Offer to Purchase) and the Offer, the Company had 118,833,752 issued and outstanding shares of Class A Common Stock or, assuming the exchange of all ExchangeCo Shares (as defined in the Offer to Purchase), which are exchangeable on a one-for-one basis for shares of Class A Common Stock, 283,987,373 issued and outstanding shares of Class A Common Stock (which, in each case, includes all issued and outstanding shares subject to an escrow restriction (as defined in the Offer to Purchase) under the Company’s Business Combination Agreement (as defined in the Offer to Purchase)).
+(c)     The information set forth in the Offer to Purchase under Section 7 (“Price Range of the Shares; Dividends”) is incorporated herein by reference.
+Item 3.       Identity and Background of Filing Person
+(a)     The Company is the filing person. The Company’s address and telephone number are set forth in Item 2 above. The information set forth in the Offer to Purchase under Section 11 (“Interest of Directors, Executive Officers, Controlling Stockholders and Others; Transactions and Arrangements Concerning the Shares”) is incorporated herein by reference.
+Item 4.       Terms of the Transaction
+(a)     The following sections of the Offer to Purchase contain a description of the material terms of the transaction and are incorporated herein by reference:
+•        “Summary Term Sheet”;
+•        Section 1 (“Number of Shares; Purchase Price; Proration”);
+•        Section 2 (“Purpose of the Offer; Certain Effects of the Offer”);
+•        Section 3 (“Procedures for Tendering Shares”);
+•        Section 4 (“Withdrawal Rights”);
+•        Section 5 (“Purchase of Shares and Payment of Purchase Price”);
+
+1
+
+•        Section 6 (“Conditions of the Offer”);
+•        Section 8 (“Source and Amount of Funds”);
+•        Section 11 (“Interest of Directors, Executive Officers, Controlling Stockholders and Others; Transactions and Arrangements Concerning the Shares”);
+•        Section 12 (“Effects of the Offer on the Market for Shares; Registration under the Exchange Act”);
+•        Section 14 (“Material U.S. Federal Income Tax Consequences”); and
+•        Section 15 (“Extension of the Offer; Termination; Amendment”).
+(b)    The information in Section 11 of the Offer to Purchase (“Interest of Directors, Executive Officers, Controlling Stockholders and Others; Transactions and Arrangements Concerning the Shares”) is incorporated herein by reference.
+Item 5.       Past Contacts, Transactions, Negotiations and Agreements
+(e)     The information set forth in the Offer to Purchase under Section 2 (“Purpose of the Offer; Certain Effects of the Offer”) and Section 11 (“Interest of Directors, Executive Officers, Controlling Stockholders and Others; Transactions and Arrangements Concerning the Shares”) is incorporated herein by reference.
+Item 6.       Purposes of the Transaction and Plans or Proposals
+(a), (b) and (c) The information set forth in the Offer to Purchase under Section 2 (“Purpose of the Offer; Certain Effects of the Offer”) is incorporated herein by reference.
+Item 7.       Source and Amount of Funds or Other Consideration
+(a), (b) and (d) The information set forth in the Offer to Purchase under Section 8 (“Source and Amount of Funds”) is incorporated herein by reference.
+Item 8.       Interest in Securities of the Subject Company
+(a) and (b) The information set forth in the Offer to Purchase under Section 11 (“Interest of Directors, Executive Officers, Controlling Shareholders and Others; Transactions and Arrangements Concerning the Shares”) is incorporated herein by reference.
+Item 9.       Persons/Assets, Retained, Employed, Compensated or Used
+(a)     The information set forth in the Offer to Purchase under Section 16 (“Fees and Expenses”) is incorporated herein by reference.
+Item 10.     Financial Statements
+(a)     The financial statements and notes thereto included in Item 8 of the Company’s Annual Report on Form 10-K for the year ended December 31, 2023 and Item 1 of the Company’s Quarterly Report on Form 10-Q for the nine months ended September 30, 2024 are incorporated herein by reference. Please see Section 10 of the Offer to Purchase for instructions on how to obtain copies of the Company’s filings with the Securities and Exchange Commission, including filings that contain the aforementioned financial statements.
+(b)    Not applicable.
+
+2
+
+Item 11.     Additional Information
+(a)     The information set forth in the Offer to Purchase under Section 9 (“Certain Financial Information”), Section 10 (“Certain Information Concerning Rumble”), Section 11 (“Interest of Directors, Executive Officers, Controlling Stockholders and Others; Transactions and Arrangements Concerning the Shares”), Section 12 (“Effects of the Offer on the Market for Shares; Registration under the Exchange Act”) and Section 13 (“Legal Matters; Regulatory Approvals”) is incorporated herein by reference.
+(c)     The information set forth in the Offer to Purchase and the related Letter of Transmittal, as each may be amended or supplemented from time to time, is incorporated herein by reference.
+Item 12.     Exhibits
+
+
+
+(a)(1)(A)
+
+ 
+
+Offer to Purchase, dated January 3, 2025.*
+
+
+
+
+(a)(1)(B)
+
+ 
+
+Letter of Transmittal, dated January 3, 2025.*
+
+
+
+
+(a)(1)(C)
+
+ 
+
+Notice of Guaranteed Delivery.*
+
+
+
+
+(a)(1)(D)
+
+ 
+
+Letter to Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees, dated January 3, 2025.*
+
+
+
+
+(a)(1)(E)
+
+ 
+
+Letter to Clients for use by Brokers, Dealers, Commercial Banks, Trust Companies and Other Nominees, dated January 3, 2025.*
+
+
+
+
+(a)(1)(F)
+
+ 
+
+Notice to Certain Holders of Stock Options, dated January 3, 2025.*
+
+
+
+
+(a)(2)
+
+ 
+
+Not Applicable.
+
+
+
+
+(a)(3)
+
+ 
+
+Not Applicable.
+
+
+
+
+(a)(4)
+
+ 
+
+Not Applicable.
+
+
+
+
+(a)(5)(A)
+
+ 
+
+Press Release, dated December 20, 2024 (incorporated herein and filed as Exhibit 99.1 of the Company’s Current Report on Form 8-K filed on December 20, 2024).
+
+
+
+
+(b)
+
+ 
+
+Not applicable.
+
+
+
+
+(d)(1)
+
+ 
+
+Letter Agreement, dated November 4, 2021, by and between Rumble USA Inc. and Michael Ellis (incorporated by reference to Exhibit 10.11 to CF Acquisition Corp. VI’s Amendment No. 2 to Registration Statement on Form S-4 filed on June 17, 2022).
+
+
+
+
+(d)(2)
+
+ 
+
+Letter Agreement, dated July 26, 2021, by and between Rumble USA Inc. and Tyler Hughes (incorporated by reference to Exhibit 10.12 to CF Acquisition Corp. VI’s Amendment No. 2 to Registration Statement on Form S-4 filed on June 17, 2022).
+
+
+
+
+(d)(3)
+
+ 
+
+Form of Restricted Class Common Share Ownership Agreement (incorporated by reference to Exhibit 10.13 to CF Acquisition Corp. VI’s Amendment No. 2 to Registration Statement on Form S-4 filed on June 17, 2022).
+
+
+
+
+(d)(4)
+
+ 
+
+Amended and Restated Registration Rights Agreement, dated September 16, 2022, by and among the Company, Sponsor and the other parties named therein (incorporated by reference to Exhibit 10.9 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(5)
+
+ 
+
+Warrant Assignment, Assumption and Amendment Agreement, dated September 16, 2022, by and among the Company, Computershare Inc., Computershare Trust Company, N.A., and Continental Stock Transfer & Trust Company (incorporated by reference to Exhibit 4.3 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(6)
+
+ 
+
+Sponsor Support Agreement dated December 1, 2021, by and among CF Acquisition Corp. VI, CFAC Holdings VI, LLC and Rumble Inc. (incorporated by reference to Annex E to the Proxy Statement/Prospectus filed on August 12, 2022).
+
+
+
+
+(d)(7)
+
+ 
+
+Exchange and Support Agreement, dated September 16, 2022, by and among the Company, ExchangeCo, 1000045707 Ontario Inc. and the shareholders of ExchangeCo who hold ExchangeCo Shares (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(8)
+
+ 
+
+Employment Agreement by and between Rumble Inc. and Christopher Pavlovski, effective as of September 16, 2022 (incorporated by reference to Exhibit 10.17 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+3
+
+
+
+
+(d)(9)
+
+ 
+
+Letter Agreement, dated as of September 16, 2022 by and between Christopher Pavlovski and Rumble Inc. amending Mr. Pavlovski’s employment agreement with Rumble Inc. (incorporated by reference to Exhibit 10.19 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(10)
+
+ 
+
+Restricted Stock Unit Grant Notice and Agreement by and between Rumble Inc. and Christopher Pavlovski, dated as of September 16, 2022 (incorporated by reference to Exhibit 10.20 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(11)
+
+ 
+
+Employment Agreement, dated November 16, 2022, by and between Rumble Inc. and Michael Ellis (incorporated by reference to Exhibit 10.1 to Current Report on Form 8-K filed on November 21, 2022).
+
+
+
+
+(d)(12)
+
+ 
+
+Employment Agreement, dated November 16, 2022, by and between Rumble Inc. and Brandon Alexandroff. (incorporated by reference to Exhibit 10.2 to Current Report on Form 8-K filed on November 21, 2022).
+
+
+
+
+(d)(13)
+
+ 
+
+Employment Agreement, dated November 16, 2022, by and between Rumble Inc. and Tyler Hughes. (incorporated by reference to Exhibit 10.3 to Current Report on Form 8-K filed on November 21, 2022).
+
+
+
+
+(d)(14)
+
+ 
+
+Controlled Equity OfferingSM Sales Agreement, dated October 18, 2024, by and between Rumble Inc. and Cantor Fitzgerald & Co. (incorporated by reference to Exhibit 1.2 to the Company’s Registration on Form S-3 filed on October 18, 2024, and under which the Company has suspended all sales during the pendency of the Offer and terminated the applicable at-the-market offering prospectus supplement).
+
+
+
+
+(d)(15)
+
+ 
+
+Rumble Inc. 2022 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company’s Current Report on Form 10-Q filed on November 14, 2022).
+
+
+
+
+(d)(16)
+
+ 
+
+Rumble Inc. Second Amended and Restated Stock Option Plan (incorporated by reference to Exhibit 10.6 to the Company’s Current Report on Form 8-K filed on September 22, 2022).
+
+
+
+
+(d)(17)
+
+ 
+
+Form of Restricted Stock Unit Award Agreement in respect of the Rumble Inc. 2022 Stock Incentive Plan (Executives) (incorporated by reference to Exhibit 10.6 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(18)
+
+ 
+
+Form of Restricted Stock Unit Award Agreement in respect of the Rumble Inc. 2022 Stock Incentive Plan (Directors) (incorporated by reference to Exhibit 10.7 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(19)
+
+ 
+
+Form of Option Award Agreement in respect of the Rumble Inc. 2022 Stock Incentive Plan (Executives) (incorporated by reference to Exhibit 10.8 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(20)
+
+ 
+
+Form of Option Award Agreement in respect of the Second Amended and Restated Stock Option Plan (Time-Based Vesting) (incorporated by reference to Exhibit 10.10 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(21)
+
+ 
+
+Form of Option Award Agreement in respect of the Second Amended and Restated Stock Option Plan (Cliff Vesting) (incorporated by reference to Exhibit 10.11 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(22)
+
+ 
+
+Form of Option Award Agreement in respect of the Second Amended and Restated Stock Option Plan (Fully Vested) (incorporated by reference to Exhibit 10.12 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(23)
+
+ 
+
+Restricted Stock Grant Notice and Agreement by and between Rumble In. and Assaf Lev, dated as of November 24, 2021 (incorporated by reference to Exhibit 10.13 to the Company’s Annual Report on Form 10-K filed on March 30, 2023).
+
+
+
+
+(d)(24)
+
+ 
+
+Business Combination Agreement, dated as of December 1, 2021, by and between CF Acquisition Corp. VI and Rumble Inc. (incorporated by reference to Annex A to the Proxy Statement/Prospectus filed on August 12, 2022).+
+
+
+
+
+(d)(25)
+
+ 
+
+Transaction Agreement, dated December 20, 2024, by and between Rumble Inc. and Tether Investments Limited (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on December 23, 2024).+
+
+
+
+
+(d)(26)
+
+ 
+
+Form of Tender and Support Agreement, dated as of December 20, 2024 (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on December 23, 2024).
+
+
+
+
+(g)
+
+ 
+
+Not Applicable.
+
+
+
+
+(h)
+
+ 
+
+Not Applicable.
+
+
+
+____________*        Filed herewith.
++        Certain attachments, exhibits or schedules, as applicable, to this Exhibit have been omitted in accordance with Regulation S-K Item 601(a)(5). The Registrant agrees to furnish supplementally a copy of all omitted attachments, exhibits and schedules to the Securities and Exchange Commission upon its request.
+
+4
+
+Item 12(b). Filing Fees.
+Filing Fee Exhibit.
+Item 13.      Information required by Schedule 13E-3
+Not applicable.
+
+5
+
+SIGNATURE
+After due inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+
+
+Dated: January 3, 2025
+
+ 
+
+RUMBLE INC.
+
+
+
+ 
+ 
+
+By:
+
+ 
+
+/s/ Michael Ellis
+
+
+
+ 
+ 
+ 
+ 
+
+Michael Ellis
+
+
+
+ 
+ 
+ 
+ 
+
+General Counsel and Corporate Secretary
+
+
+
+
+6
+
+
+

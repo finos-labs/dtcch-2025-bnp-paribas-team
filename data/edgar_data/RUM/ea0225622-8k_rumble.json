@@ -1,0 +1,96 @@
+{
+ "CoverPage": {
+  "DocumentType": "8-K",
+  "AmendmentFlag": "false",
+  "DocumentPeriodEndDate": "2024-12-20",
+  "EntityFileNumber": "001-40079",
+  "EntityRegistrantName": "Rumble Inc.",
+  "EntityCentralIndexKey": "0001830081",
+  "EntityTaxIdentificationNumber": "85-1087461",
+  "EntityIncorporationStateCountryCode": "DE",
+  "EntityAddressAddressLine1": "444 Gulf of Mexico Dr",
+  "EntityAddressCityOrTown": "Longboat Key",
+  "EntityAddressStateOrProvince": "FL",
+  "EntityAddressPostalZipCode": "34228",
+  "CityAreaCode": "941",
+  "LocalPhoneNumber": "210-0196",
+  "WrittenCommunications": "false",
+  "SolicitingMaterial": "false",
+  "PreCommencementTenderOffer": "false",
+  "PreCommencementIssuerTenderOffer": "true",
+  "Security12bTitle": [
+   {
+    "period": {
+     "startDate": "2024-12-20",
+     "endDate": "2024-12-20"
+    },
+    "segment": {
+     "dimension": "us-gaap:StatementClassOfStockAxis",
+     "value": "RUM:ClassCommonStockParValue0.0001PerShareMember"
+    },
+    "value": "Class A common stock, par value $0.0001 per share"
+   },
+   {
+    "period": {
+     "startDate": "2024-12-20",
+     "endDate": "2024-12-20"
+    },
+    "segment": {
+     "dimension": "us-gaap:StatementClassOfStockAxis",
+     "value": "RUM:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareMember"
+    },
+    "value": "Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
+   }
+  ],
+  "TradingSymbol": [
+   {
+    "period": {
+     "startDate": "2024-12-20",
+     "endDate": "2024-12-20"
+    },
+    "segment": {
+     "dimension": "us-gaap:StatementClassOfStockAxis",
+     "value": "RUM:ClassCommonStockParValue0.0001PerShareMember"
+    },
+    "value": "RUM"
+   },
+   {
+    "period": {
+     "startDate": "2024-12-20",
+     "endDate": "2024-12-20"
+    },
+    "segment": {
+     "dimension": "us-gaap:StatementClassOfStockAxis",
+     "value": "RUM:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareMember"
+    },
+    "value": "RUMBW"
+   }
+  ],
+  "SecurityExchangeName": [
+   {
+    "period": {
+     "startDate": "2024-12-20",
+     "endDate": "2024-12-20"
+    },
+    "segment": {
+     "dimension": "us-gaap:StatementClassOfStockAxis",
+     "value": "RUM:ClassCommonStockParValue0.0001PerShareMember"
+    },
+    "value": "NASDAQ"
+   },
+   {
+    "period": {
+     "startDate": "2024-12-20",
+     "endDate": "2024-12-20"
+    },
+    "segment": {
+     "dimension": "us-gaap:StatementClassOfStockAxis",
+     "value": "RUM:RedeemableWarrantsEachWholeWarrantExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareMember"
+    },
+    "value": "NASDAQ"
+   }
+  ],
+  "EntityEmergingGrowthCompany": "true",
+  "EntityExTransitionPeriod": "false"
+ }
+}

@@ -1,0 +1,3122 @@
+{
+    "items": "45",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Palantir Adds Elon Musk's AI Chatbot Grok To AIP - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/general/social-media/25/02/43535256/palantir-adds-elon-musks-ai-chatbot-grok-to-aip",
+            "time_published": "20250206T161744",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "Grok, developed by Elon Musk's AI start-up xAI, is now available in Palantir's AIP. Palantir says it has \"brought Grok to the enterprise\" in a post on Musk's social media platform X. Brand New Membership Level: Benzinga Trade Alerts Palantir Technologies, Inc.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/06/Comments-From-Palantirs-CTO.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.194648,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.327366",
+                    "ticker_sentiment_score": "0.227363",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.221819",
+                    "ticker_sentiment_score": "0.155724",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Could 2025 Be a Repeat of 2022 for Big Tech?",
+            "url": "https://www.fool.com/investing/2025/02/06/could-2025-be-a-repeat-of-2022-for-big-tech/",
+            "time_published": "20250206T134100",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "Investors often love investing in tech stocks because of how much upside there can be in both the short term and long term. Companies involved in next-gen technologies can become incredibly popular, but they can also rise to unsustainable valuations.",
+            "banner_image": "https://media.ycharts.com/charts/b401ab8fbf163b81244d81cac35dbc2a.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.002437,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.143987",
+                    "ticker_sentiment_score": "0.003843",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.096283",
+                    "ticker_sentiment_score": "-0.150445",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.04823",
+                    "ticker_sentiment_score": "-0.27808",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.04823",
+                    "ticker_sentiment_score": "0.114345",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.04823",
+                    "ticker_sentiment_score": "-0.013005",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Great Palantir Debate Sparks Intrigue In Direxion's PLTR Bull And Bear Funds - Direxion Daily PLTR Bear 1X Shares  ( NASDAQ:PLTD ) , ARK Innovation ETF  ( ARCA:ARKK ) ",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/02/43525517/the-great-palantir-debate-sparks-intrigue-in-direxions-pltr-bull-and-bear-funds",
+            "time_published": "20250206T125945",
+            "authors": [
+                "JE Insights"
+            ],
+            "summary": "Big data analytics firm Palantir recently disclosed its earnings result to extraordinary applause. Questions about the forward viability of PLTR stock provide fuel for Direxion's bull and bear ETFs. Brand New Membership Level: Benzinga Trade Alerts",
+            "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOVB012fGTdtPUZf2Qt5WCQyKni_5ptd0zm--qwcEg1z9aHYgdzmVFVMJD-1B-tMKYSyFAtfpGJop4FXXtF81hDlCeyFnlrpNAdzXw99UZGZW57cEpGsiW4iSP9y_4aMLA0qeZPA?key=YjjvDiOIXzAazEI9wXFrhHqL",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99237"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999491"
+                }
+            ],
+            "overall_sentiment_score": 0.149866,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTU",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.096044",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTD",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "-0.035238",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.499351",
+                    "ticker_sentiment_score": "-0.016105",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Got 10 Years and $1000? These 3 Artificial Intelligence  ( AI )  Stocks Are Set to Soar.",
+            "url": "https://www.fool.com/investing/2025/02/06/got-10-years-and-1000-these-3-artificial-intellige/",
+            "time_published": "20250206T105300",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "Investing with a longer time horizon empowers investors to zoom out and focus on the big picture. These companies are poised to thrive over the next decade.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805084/ai-stocks-long-term.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.260149,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.047654",
+                    "ticker_sentiment_score": "0.178697",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.189563",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.28008",
+                    "ticker_sentiment_score": "0.315706",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.109248",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Kratos Defense and GSK have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://www.zacks.com/stock/news/2410677/kratos-defense-and-gsk-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "time_published": "20250206T100000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Chicago, IL - February 6, 2025 - Zacks Equity Research shares Kratos Defense & Security Solutions ( KTOS Quick QuoteKTOS - ) as the Bull of the Day and GSK PLC ( GSK Quick QuoteGSK - ) as the Bear of the Day.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9b/2956.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.752319"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.217622,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.085936",
+                    "ticker_sentiment_score": "0.066705",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBM",
+                    "relevance_score": "0.085936",
+                    "ticker_sentiment_score": "0.066705",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASH",
+                    "relevance_score": "0.028695",
+                    "ticker_sentiment_score": "-0.066944",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GSK",
+                    "relevance_score": "0.114409",
+                    "ticker_sentiment_score": "0.016814",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KTOS",
+                    "relevance_score": "0.142734",
+                    "ticker_sentiment_score": "0.097226",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.198803",
+                    "ticker_sentiment_score": "0.29693",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is Palantir Technologies Wall Street's Biggest Bubble Stock of 2025? History Offers a Clear Answer.",
+            "url": "https://www.fool.com/investing/2025/02/06/is-palantir-wall-st-biggest-bubble-history-answer/",
+            "time_published": "20250206T095100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Can the top-performing artificial intelligence (AI) stock buck historic precedent?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806360%2Fartificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999701"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.231998,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.212115",
+                    "ticker_sentiment_score": "0.12774",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.035768",
+                    "ticker_sentiment_score": "0.129679",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.142355",
+                    "ticker_sentiment_score": "-0.032574",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: 2 AI Stocks Will Be Worth More Than Palantir Technologies by Early 2026",
+            "url": "https://www.fool.com/investing/2025/02/06/2-ai-stocks-worth-more-than-palantir-stock-2026/",
+            "time_published": "20250206T090000",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "Palantir Technologies recently reported stellar fourth-quarter financial results that propelled its market value to $230 billion. But some Wall Street analysts think Advanced Micro Devices ( NASDAQ: AMD ) and ServiceNow ( NYSE: NOW ) will surpass that figure in the next year, as detailed ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806587/investor-7.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.325163,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.529767",
+                    "ticker_sentiment_score": "0.378228",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.156123",
+                    "ticker_sentiment_score": "0.083575",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.05234",
+                    "ticker_sentiment_score": "-0.024999",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.104455",
+                    "ticker_sentiment_score": "0.164153",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NOW",
+                    "relevance_score": "0.306325",
+                    "ticker_sentiment_score": "0.296127",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.05234",
+                    "ticker_sentiment_score": "0.189627",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Palantir, Meta Platforms, Microsoft and Alphabet",
+            "url": "https://www.zacks.com/stock/news/2410660/zacks-investment-ideas-feature-highlights-palantir-meta-platforms-microsoft-and-alphabet",
+            "time_published": "20250206T082800",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "Palantir, Meta Platforms, Microsoft and Alphabet have been highlighted in this Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.993856"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.27824,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.145145",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.145145",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "0.28332",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Better AI Buy Right Now: Nvidia vs Palantir",
+            "url": "https://www.fool.com/investing/2025/02/06/better-ai-buy-right-now-nvidia-vs-palantir/",
+            "time_published": "20250206T082500",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) and Palantir Technologies ( NASDAQ: PLTR ) both have been early winners of the artificial intelligence ( AI ) revolution. Last year, their shares soared in the triple digits. Nvidia advanced 171% for the best performance in the Dow Jones Industrial Average, while Palantir ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806381%2Fgettyimages-998452928.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.986564"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.279844,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.050465",
+                    "ticker_sentiment_score": "0.107641",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.050465",
+                    "ticker_sentiment_score": "0.107641",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.552443",
+                    "ticker_sentiment_score": "0.385006",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "0.249603",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Cathie Wood Sells Palantir Shares As Rally Cools Down, Ark Invest Also Dumps Nearly $7 Million Worth Of Robinhood Stock - ARK Innovation ETF  ( ARCA:ARKK ) ",
+            "url": "https://www.benzinga.com/25/02/43517403/cathie-wood-sells-palantir-shares-as-rally-cools-down-ark-invest-also-dumps-nearly-7-million-worth-of-robinhood-s",
+            "time_published": "20250206T015835",
+            "authors": [
+                "Shivdeep Dhaliwal"
+            ],
+            "summary": "On Wednesday, Cathie Wood-led Ark Invest made significant trades involving Palantir Technologies Inc. PLTR and Robinhood Markets Inc. HOOD. These trades occurred amid notable developments in both companies, drawing attention from investors and market analysts.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Cathie-Wood-Buys-Amazon--AMD-Stock--Trim.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.857896"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.399346,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.371776",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TXG",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.371776",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TWST",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.371776",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "HOOD",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.079649",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.079649",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.267013",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Brian's Big Idea: Insider Buying",
+            "url": "https://www.zacks.com/stock/news/2410594/brians-big-idea-insider-buying",
+            "time_published": "20250205T231900",
+            "authors": [
+                "Brian Bolan"
+            ],
+            "summary": "A look at three stocks and the Insider Trader service from Zacks Investment Research.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/5b/2246.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.296186,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.337427",
+                    "ticker_sentiment_score": "0.239397",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ARBE",
+                    "relevance_score": "0.256538",
+                    "ticker_sentiment_score": "0.109225",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.172713",
+                    "ticker_sentiment_score": "0.136296",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is It Too Late to Buy Palantir Stock Post Blockbuster Quarter?",
+            "url": "https://www.zacks.com/stock/news/2409859/is-it-too-late-to-buy-palantir-stock-post-blockbuster-quarter",
+            "time_published": "20250205T131200",
+            "authors": [
+                "Tirthankar Chakraborty"
+            ],
+            "summary": "Palantir's rapid growth has brought it close to the market caps of IBM and Cisco. However, is it now too late to buy the PLTR stock? Let's see ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/df/83843.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99246"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.439486,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IBM",
+                    "relevance_score": "0.142989",
+                    "ticker_sentiment_score": "0.114756",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.142989",
+                    "ticker_sentiment_score": "0.114756",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.411176",
+                    "ticker_sentiment_score": "0.55554",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Buy the New AI Poster Boy Palantir After Excellent Q4 Earnings",
+            "url": "https://www.zacks.com/stock/news/2409856/buy-the-new-ai-poster-boy-palantir-after-excellent-q4-earnings",
+            "time_published": "20250205T130800",
+            "authors": [
+                "Nalak Das"
+            ],
+            "summary": "PLTR's favorable Zacks Rank along with robust fourth-quarter earnings results, should also drive its stock price in the near future.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.993856"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.273932,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.103778",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.051999",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.103778",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.603465",
+                    "ticker_sentiment_score": "0.373442",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Soars on Solid Q4 Earnings, Cautions on DeepSeek: ETFs to Buy",
+            "url": "https://www.zacks.com/stock/news/2409845/palantir-soars-on-solid-q4-earnings-cautions-on-deepseek-etfs-to-buy",
+            "time_published": "20250205T130000",
+            "authors": [
+                "Sanghamitra Saha"
+            ],
+            "summary": "Palantir shares surge on upbeat Q4 earnings. Investors can buy Palantir-heavy ETFs.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/65774.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.993856"
+                }
+            ],
+            "overall_sentiment_score": 0.186782,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.263231",
+                    "ticker_sentiment_score": "0.151648",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US Stocks Likely To Open Lower Following Alphabet, AMD Earnings: Walt Disney, Uber, Ford, Qualcomm In Focus - Advanced Micro Devices  ( NASDAQ:AMD ) , Cognizant Tech Solns  ( NASDAQ:CTSH ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/02/43489453/us-stocks-likely-to-open-lower-following-alphabet-amd-earnings-walt-disney-uber-ford-qualcomm-in-fo",
+            "time_published": "20250205T112058",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "U.S. stock futures declined on Wednesday after Tuesday's advances amid trade war concerns and major earnings reports. Three benchmark indices were trading lower, whereas the gauge tracking small-cap stocks, Russell 2000 rose marginally. Walt Disney Co. DIS, Qualcomm Inc. QCOM, Uber Technologies ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/5-Stocks-To-Watch-Heading-Into-Thursday.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999919"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.048353,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.015754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.125025",
+                    "ticker_sentiment_score": "-0.008674",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.416886",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TTE",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "-0.11492",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "-0.11492",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.021752",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.127996",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CTSH",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.015754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.041828",
+                    "ticker_sentiment_score": "-0.023011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "-0.041627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.416886",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.041828",
+                    "ticker_sentiment_score": "0.092602",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market News for Feb 5, 2025",
+            "url": "https://www.zacks.com/stock/news/2409748/stock-market-news-for-feb-5-2025",
+            "time_published": "20250205T103200",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Wall Street closed higher on Tuesday recovering some ground that it lost in the previous two days of trading.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/01/36484.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.036189,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.054236",
+                    "ticker_sentiment_score": "0.108768",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Popular AI Stocks to Sell Before They Fall 65% and 73%, According to Certain Wall Street Analysts",
+            "url": "https://www.fool.com/investing/2025/02/05/2-popular-ai-stocks-sell-before-fall-65-and-73-wal/",
+            "time_published": "20250205T095500",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "Palantir Technologies ( NASDAQ: PLTR ) and Tesla ( NASDAQ: TSLA ) were two of the most popular stocks among retail investors last year as measured by net inflows. But most Wall Street analysts expect both stocks to decline this year.Read on to learn more about Palantir and Tesla.Palantir is a ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806373/market-red-4.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.988787"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.109421,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FORR",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "0.132504",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "0.136251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.360098",
+                    "ticker_sentiment_score": "0.010577",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.093108",
+                    "ticker_sentiment_score": "0.159548",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.093108",
+                    "ticker_sentiment_score": "-0.06163",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.017023",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Palantir Will Beat the Market. Here's Why.",
+            "url": "https://www.fool.com/investing/2025/02/05/prediction-palantir-will-beat-the-market-heres-why/",
+            "time_published": "20250205T090500",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Palantir Technologies ( NASDAQ: PLTR ) already delivered explosive earnings and stock price performances to investors last year. The company's quarterly revenue soared in the double digits, profit reached records, and the stock jumped 340% for the best performance in the S&P 500 ( SNPINDEX: ^GSPC ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806365%2Fgettyimages-three-business-people-use-tablets.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.326642,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIO",
+                    "relevance_score": "0.107736",
+                    "ticker_sentiment_score": "0.068203",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRMNF",
+                    "relevance_score": "0.053992",
+                    "ticker_sentiment_score": "0.248003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.107736",
+                    "ticker_sentiment_score": "0.126708",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Alex Karp Says Elon Musk's DOGE Initiative Will Be 'Very Good' For Palantir: 'Expecting To See Really Unexpected Things And To Win' Palantir CEO Hails Elon Musk's DOGE Initiative, Anticipates Positive Outcome - Tesla  ( NASDAQ:TSLA ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/25/02/43487682/palantir-ceo-hails-elon-musks-doge-initiative-anticipates-positive-outcome",
+            "time_published": "20250205T082048",
+            "authors": [
+                "Namrata Sen"
+            ],
+            "summary": "Palantir Technologies Inc. PLTR CEO, Alex Karp, has shown enthusiasm for the Elon Musk-led Department of Government Efficiency ( DOGE ) and its potential influence on his company. What Happened: Established by President Trump two weeks ago with Elon Musk at the helm, DOGE aims to implement ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/The-Palantir-Trade.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.338457,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.283323",
+                    "ticker_sentiment_score": "0.295817",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.19117",
+                    "ticker_sentiment_score": "0.165861",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nasdaq Jumps Over 1% Despite China's Trade Concerns As Palantir, Spotify Surge: Greed Index Remains In 'Fear' Zone - Ford Motor  ( NYSE:F ) , Walt Disney  ( NYSE:DIS ) ",
+            "url": "https://www.benzinga.com/25/02/43487301/nasdaq-jumps-over-1-despite-chinas-trade-concerns-investor-sentiment-improves-but-fear-greed-index-remains-in-fea",
+            "time_published": "20250205T074101",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the \"Fear\" zone on Tuesday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Market-Sentiment--Fear-And-Greed-Index--.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.026879,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.093289",
+                    "ticker_sentiment_score": "-0.169634",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.454875",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DIS",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.454875",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "'Pharma Bro' Martin Shkreli Defends Palantir's Valuation Amid 24% Surge, Says AI Firm's Cash Flow Justifies 'Expensive' Price - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43485885/pharma-bro-martin-shkreli-defends-palantirs-valuation-amid-24-surge-says-ai-firms-cash-flow-just",
+            "time_published": "20250205T050902",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Martin Shkreli, the former hedge fund manager known as \"Pharma Bro,\" defended Palantir Technologies Inc.'s PLTR valuation on Tuesday amid the company's surging stock price, projecting substantial cash flow growth for the data analytics firm through 2025.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Palantir-Technologies-Japan-Logo--Tokyo-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.148757,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "0.219371",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "0.219371",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.257442",
+                    "ticker_sentiment_score": "0.051597",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Cathie Wood-Led Ark Invest Dumps $7M Worth Of Palantir Stock Amid Searing Rally - ARK Innovation ETF  ( ARCA:ARKK ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/25/02/43484615/cathie-wood-led-ark-invest-dumps-7m-worth-of-palantir-stock-amid-searing-rally",
+            "time_published": "20250205T012621",
+            "authors": [
+                "Shivdeep Dhaliwal"
+            ],
+            "summary": "On Tuesday, Cathie Wood-led Ark Invest made notable trades, including the sale of shares in Palantir Technologies Inc PLTR. This move came as Palantir's stock surged following its impressive fourth-quarter results and optimistic future guidance.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Other-Aspects.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.471222,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TXG",
+                    "relevance_score": "0.280615",
+                    "ticker_sentiment_score": "0.568784",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TWST",
+                    "relevance_score": "0.280615",
+                    "ticker_sentiment_score": "0.568784",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ACCD",
+                    "relevance_score": "0.280615",
+                    "ticker_sentiment_score": "0.509361",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.280615",
+                    "ticker_sentiment_score": "0.568784",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.280615",
+                    "ticker_sentiment_score": "0.509361",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Buy the Surge in Palantir Technologies  ( PLTR )  Stock After Q4 Earnings?",
+            "url": "https://www.zacks.com/commentary/2409676/buy-the-surge-in-palantir-technologies-pltr-stock-after-q4-earnings",
+            "time_published": "20250205T002400",
+            "authors": [
+                "Shaun Pruitt"
+            ],
+            "summary": "Spiking over +20% in Wednesday's trading session, Palantir Technologies (PLTR) stock has been a highlight of this week's earnings lineup after reporting strong Q4 results yesterday evening.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/c4/92938.jpg?v=467374788",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.367175,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.21686",
+                    "ticker_sentiment_score": "0.327068",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Buying Palantir Stock Today Is Like Buying Tesla Stock 10 Years Ago, Dan Ives Says: 'This Could Be A $1 Trillion Market Cap' - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/02/43476925/buying-palantir-stock-today-is-like-buying-tesla-stock-10-years-ago-dan-ives-says-t",
+            "time_published": "20250204T203022",
+            "authors": [
+                "Adam Eckert"
+            ],
+            "summary": "Wedbush's Dan Ives believes Palantir investors focused on valuation are missing the bigger picture. \"When we do the checks that we've done for Palantir, I think it's the next Oracle, it's the next Salesforce,\" Ives says. Get the Real Story Behind Every Major Earnings Report",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Palantir-Technologies-Japan-Logo--Tokyo-_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.185458,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.169676",
+                    "ticker_sentiment_score": "0.321408",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.169676",
+                    "ticker_sentiment_score": "0.371829",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.479683",
+                    "ticker_sentiment_score": "0.516146",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Gold Moves Higher; Estée Lauder Shares Slide - Atkore  ( NYSE:ATKR ) , Estee Lauder Cos  ( NYSE:EL ) ",
+            "url": "https://www.benzinga.com/25/02/43474623/gold-moves-higher-estee-lauder-shares-slide",
+            "time_published": "20250204T190255",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks traded higher toward the end of trading, with the S&P 500 gaining around 0.6% on Tuesday. The Dow traded up 0.13% to 44,481.08 while the NASDAQ gained 1.18% to 19,620.50. The S&P 500 also rose, gaining, 0.58% to 6,029.54. In trading on Monday, utilities shares fell by 0.9%.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Gold.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.289739,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UPC",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "0.214627",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ATKR",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "-0.10279",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "0.389674",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.348019",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US Stocks Rise Despite China's Trade Fears, Palantir Defies Gravity, Gold Rallies Further: What's Driving Markets Tuesday? - Archer-Daniels Midland  ( NYSE:ADM ) ",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43473576/us-stocks-rise-despite-chinas-trade-fears-palantir-defies-gravity-gold-rallies-fu",
+            "time_published": "20250204T182826",
+            "authors": [
+                "Piero Cingari"
+            ],
+            "summary": "U.S. stocks gain despite geopolitical tensions as China imposes new tariffs and trade restrictions on U.S. goods and companies. Palantir surges 22% on strong earnings; gold hits a record high, silver rises 2.2% and Bitcoin drops to $99,000.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/wall-street-photo-by-marek-masik-on-shut.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.795202"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.109098,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MPC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GPK",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PVH",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.007442",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMCR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OCSL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ADM",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMGN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ARMK",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PRU",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PNR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AME",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HLNE",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PJT",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SLAB",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMI",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MLAB",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.007442",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IT",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HUBB",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JKHY",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WEC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSGS",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNH",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IEX",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENPH",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDLZ",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATKR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LANC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "J",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MPLX",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PINC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.24543",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "APOS",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FICO",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BERY",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TDG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INMD",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.197295",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BALL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.004183",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZPN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XYL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INGR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATI",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXTA",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATO",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "REGN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.129749",
+                    "ticker_sentiment_score": "0.105771",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Decoding Palantir Technologies's Options Activity: What's the Big Picture? - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43472838/decoding-palantir-technologiess-options-activity-whats-the-big-picture",
+            "time_published": "20250204T180025",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Whales with a lot of money to spend have taken a noticeably bullish stance on Palantir Technologies. Looking at options history for Palantir Technologies PLTR we detected 569 trades. If we consider the specifics of each trade, it is accurate to state that 51% of the investors opened trades with ...",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738692022_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.210767,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.077094",
+                    "ticker_sentiment_score": "0.028566",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.666827",
+                    "ticker_sentiment_score": "0.288834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nasdaq Surges Over 1%; Pfizer Earnings Top Estimates - Atkore  ( NYSE:ATKR ) , Estee Lauder Cos  ( NYSE:EL ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/02/43471635/nasdaq-surges-over-1-pfizer-earnings-top-estimates",
+            "time_published": "20250204T172122",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks traded higher midway through trading, with the Nasdaq Composite gaining more than 200 points on Tuesday. The Dow traded up 0.17% to 44,499.60 while the NASDAQ gained 1.19% to 19,621.76. The S&P 500 also rose, gaining, 0.64% to 6,032.76. In trading on Monday, consumer staples shares ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Nasdaq-index.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.253897,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UPC",
+                    "relevance_score": "0.158",
+                    "ticker_sentiment_score": "0.190229",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VLCN",
+                    "relevance_score": "0.158",
+                    "ticker_sentiment_score": "0.453801",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ATKR",
+                    "relevance_score": "0.158",
+                    "ticker_sentiment_score": "-0.090644",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.235062",
+                    "ticker_sentiment_score": "0.189148",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.079392",
+                    "ticker_sentiment_score": "0.336433",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Palantir Technologies Stock Skyrocketed on Tuesday",
+            "url": "https://www.fool.com/investing/2025/02/04/why-palantir-technologies-stock-skyrocketed-on-tue/",
+            "time_published": "20250204T164741",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "The artificial intelligence (AI) specialist delivered remarkably robust results.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806402/a-person-pushing-a-virtual-ai-button-surrounded-by-various-technology-icons.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.288091,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "0.025054",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SMGZY vs. PLTR: Which Stock Is the Better Value Option?",
+            "url": "https://www.zacks.com/stock/news/2409411/smgzy-vs-pltr-which-stock-is-the-better-value-option",
+            "time_published": "20250204T164008",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Investors with an interest in Technology Services stocks have likely encountered both Smiths Group PLC ( SMGZY Quick QuoteSMGZY - ) and Palantir Technologies Inc. ( PLTR Quick QuotePLTR - ) . But which of these two stocks is more attractive to value investors? We'll need to take a closer look to ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default354.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.795202"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.483416,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SMGKF",
+                    "relevance_score": "0.203215",
+                    "ticker_sentiment_score": "0.287679",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.632565",
+                    "ticker_sentiment_score": "0.551074",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Rockets On Strong Q4: '2024 Was Only A Dress Rehearsal' For AI Growth, Says Analyst - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/news/earnings/earnings-beats/25/02/43468342/palantir-rockets-on-strong-q4-2024-was-only-a-dress-rehearsal-for-ai-growth-says-ana",
+            "time_published": "20250204T155754",
+            "authors": [
+                "Priya Nigam"
+            ],
+            "summary": "Palantir Technologies' Q4 revenue and EPS of $827.5M and 14 cents surpasses consensus of $781.2M and 11 cents. The company's customer count rose by 43% year-on-year to 711. Shares of Palantir Technologies Inc PLTR climbed in early trading on Tuesday, after the company reported strong ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Konskie--Poland---November-12--2024-Pala.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999174"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.347377,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.628843",
+                    "ticker_sentiment_score": "0.561953",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Stock Is Surging Tuesday: What's Going On? - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/price-target/25/02/43463909/palantir-stock-is-surging-tuesday-whats-going-on",
+            "time_published": "20250204T143256",
+            "authors": [
+                "Adam Eckert"
+            ],
+            "summary": "Palantir beats analyst estimates on the top and bottom lines for the sixth consecutive quarter. Several analysts raise price targets on the stock following the company's fourth-quarter financial results. Get the Real Story Behind Every Major Earnings Report",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Price-Action.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999696"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.259943,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.068896",
+                    "ticker_sentiment_score": "0.143608",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.204647",
+                    "ticker_sentiment_score": "0.399334",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "McDonald's To $290? Here Are 10 Top Analyst Forecasts For Tuesday - Baker Hughes  ( NASDAQ:BKR ) , AECOM  ( NYSE:ACM ) ",
+            "url": "https://www.benzinga.com/25/02/43463896/mcdonalds-to-290-here-are-10-top-analyst-forecasts-for-tuesday",
+            "time_published": "20250204T143155",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page. Stephens & Co. raised Tyson Foods, Inc. TSN price target from $60 to $63.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/McDonalds-Launches-Limited-Edition-Holid.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.166667"
+                }
+            ],
+            "overall_sentiment_score": 0.165817,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.004075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.004084",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKR",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "-0.01653",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FN",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.109353",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACM",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.155773",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.077448",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.104048",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MCD",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.004075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "-0.012279",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHOO",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.00365",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.086679",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LHX",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.004084",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MAR",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.116395",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.077448",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Marriott International Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday - Princeton Bancorp  ( NASDAQ:BPRN ) , AMC Enter Hldgs  ( NYSE:AMC ) ",
+            "url": "https://www.benzinga.com/25/02/43462044/this-marriott-international-analyst-turns-bullish-here-are-top-5-upgrades-for-tuesday",
+            "time_published": "20250204T135155",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades, downgrades and initiations, please see our analyst ratings page. Piper Sandler analyst Michael Lavery upgraded the rating for Tyson Foods, Inc.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04085018/image-2-3-1024x557.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.356192,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BPRN",
+                    "relevance_score": "0.367865",
+                    "ticker_sentiment_score": "0.325532",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.126784",
+                    "ticker_sentiment_score": "0.149934",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.367865",
+                    "ticker_sentiment_score": "0.325532",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMC",
+                    "relevance_score": "0.367865",
+                    "ticker_sentiment_score": "0.240744",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MAR",
+                    "relevance_score": "0.47672",
+                    "ticker_sentiment_score": "0.579959",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.250386",
+                    "ticker_sentiment_score": "0.236858",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Says No To BigBear.ai, Recommends Buying This Tech Stock - BigBear.ai Hldgs  ( NYSE:BBAI ) , Aspen Technology  ( NASDAQ:AZPN ) ",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/02/43460681/jim-cramer-says-no-to-bigbear-ai-recommends-buying-this-tech-stock",
+            "time_published": "20250204T131606",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "\"I got out too soon,\" Jim Cramer about Emerson Electric . Get Wall Street's Hottest Chart Every Morning On CNBC's \"Mad Money Lightning Round,\" Jim Cramer recommended buying Five9, Inc. FIVN, saying the stock is \"way too cheap.\"",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Jim-Cramer-Photo-by-s-bukley-on-Shutters.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.137945,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.189488",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "OSK",
+                    "relevance_score": "0.402941",
+                    "ticker_sentiment_score": "0.377566",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AZPN",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "0.254254",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "EMR",
+                    "relevance_score": "0.402941",
+                    "ticker_sentiment_score": "0.104097",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FIVN",
+                    "relevance_score": "0.402941",
+                    "ticker_sentiment_score": "-0.008476",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GME",
+                    "relevance_score": "0.402941",
+                    "ticker_sentiment_score": "-0.183752",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "-0.03941",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TTWO",
+                    "relevance_score": "0.208464",
+                    "ticker_sentiment_score": "-0.254616",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Investors Just Got Spectacular News from CEO Alex Karp",
+            "url": "https://www.fool.com/investing/2025/02/04/palantir-investors-just-got-spectacular-news-from/",
+            "time_published": "20250204T120500",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "The artificial intelligence (AI) specialist kicked its growth into overdrive.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806346%2Fwall-street-traders-looking-at-graphs-and-charts-cheering-because-the-stock-market-went-up.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999696"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.295771,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.138464",
+                    "ticker_sentiment_score": "0.257205",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US Stocks Likely To Open Lower As Trump's Trade War Continues To Impact The Market: 'Volatility Is The Toll We Pay To Invest,' Says Expert - Advanced Micro Devices  ( NASDAQ:AMD ) , Electronic Arts  ( NASDAQ:EA ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/02/43457605/us-stocks-likely-to-open-lower-as-trumps-trade-war-continues-to-impact-the-market-volatility-is-the",
+            "time_published": "20250204T114041",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "U.S. stock futures were trading lower on Tuesday after Monday's decline as the new administration's tariffs continued to spook the market. On Monday, Mexico's president Claudia Sheinbaum reached a deal with President Donald Trump to delay tariffs by increasing Mexico's military presence on the US ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999355"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999986"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.058315,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.122477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PVH",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "-0.267601",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.039888",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "-0.267601",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.146067",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBS",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "-0.035096",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OMI",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.123104",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.040969",
+                    "ticker_sentiment_score": "0.125123",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.057238",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.123104",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "-0.01907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.067233",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.040969",
+                    "ticker_sentiment_score": "-0.059081",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.342054",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.040969",
+                    "ticker_sentiment_score": "0.092368",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "PLTR Stock Surges Over 17% In Pre-Market After CEO Alex Karp Touts 'Untamed Organic Growth' In AI Demand Palantir Stocks Surge over 17% In Pre-Market After CEO Karp Touts 'Untamed Organic Growth' In AI Demand - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/markets/25/02/43456348/pltr-stock-surges-over-17-in-pre-market-after-ceo-alex-karp-touts-untamed-organic-growth-in-ai-demand",
+            "time_published": "20250204T101602",
+            "authors": [
+                "Namrata Sen"
+            ],
+            "summary": "Palantir Technologies Inc. PLTR shares surged by 16.7% in pre-market on Tuesday as the company's CEO, Alex Karp, emphasized a surge in demand for its artificial intelligence software, describing it as \"untamed organic growth.\"",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Palantir-Technologies-Inc--PLTR.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.980716"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.370031,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.101154",
+                    "ticker_sentiment_score": "0.09847",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.169058",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Palantir Shares Are Trading Higher By Over 16%; Here Are 20 Stocks Moving Premarket - American Rebel Holdings  ( NASDAQ:AREB ) , Anitra  ( AMEX:AZTR ) ",
+            "url": "https://www.benzinga.com/25/02/43456318/why-palantir-shares-are-trading-higher-by-over-16-here-are-20-stocks-moving-premarket",
+            "time_published": "20250204T101225",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Shares of Palantir Technologies Inc. PLTR rose sharply in today's pre-market trading following better-than-expected fourth-quarter results. Palantir reported fourth-quarter revenue of $827.52 million, beating the consensus estimate of $775.91 million.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Palantir-Technologies-Japan-Logo--Tokyo-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.897321"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.875462"
+                }
+            ],
+            "overall_sentiment_score": 0.094488,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "-0.091971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EJH",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "-0.135183",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PVH",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "-0.130281",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "-0.130281",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HCWB",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "-0.041573",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBS",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "-0.041502",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EVAX",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "0.298424",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UPC",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "-0.057554",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PDLB",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "-0.332253",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AREB",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "0.238825",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COFE",
+                    "relevance_score": "0.069697",
+                    "ticker_sentiment_score": "0.125577",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TNXP",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "-0.033142",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UOKA",
+                    "relevance_score": "0.138863",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVVD",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "0.263772",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "REBN",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "0.198127",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TEM",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "0.199701",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.20698",
+                    "ticker_sentiment_score": "0.333898",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Is 'Making America More Lethal' As Alex Karp-Led Company Secures $1.8 Billion in AI Contracts - US Commercial Customer Base Surges 73% - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43454250/palantir-is-making-america-more-lethal-as-alex-karp-led-company-secures-1-8-billion-in-ai-contra",
+            "time_published": "20250204T063059",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Palantir Technologies Inc. PLTR delivered a blockbuster fourth-quarter performance, positioning itself as a critical player in the artificial intelligence revolution with a 36% year-over-year revenue increase and aggressive growth across commercial and government sectors.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/The-Palantir-Trade.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.348546,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.247838",
+                    "ticker_sentiment_score": "0.365031",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir's Shyam Sankar: US Is At War With China In AI-And The Time To Act Was 'Yesterday' - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43453553/palantirs-shyam-sankar-us-is-at-war-with-china-in-ai-and-the-time-to-act-was-yesterday",
+            "time_published": "20250204T042338",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Palantir Technologies Inc.'s PLTR chief technology officer Shyam Sankar warned that the U.S. is in an \"AI arms race\" with China, calling for urgent action to maintain dominance as the race for artificial intelligence escalates.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Palantir-stock.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.004831,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "0.00754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.181918",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Sounds Alarm On China's DeepSeek, Citing National Security Threat - But Won't Drop Clients Who Use It - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/25/02/43453280/peter-thiels-palantir-sounds-alarm-on-chinas-deepseek-citing-national-security-threat-but-says-it-wont-drop-clien",
+            "time_published": "20250204T033507",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "On Monday, Palantir Technologies Inc. PLTR advised its clients to avoid using AI models from Chinese startup DeepSeek. What Happened: Palantir's chief revenue officer, Ryan Taylor, stated, \"We would strongly discourage it [DeepSeek] and don't think any customer in the U.S. government will be able ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Palantir-Logo--Photo-by-Spyro-the-Dragon.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.104718,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.112008",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.221819",
+                    "ticker_sentiment_score": "-0.213884",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "PLTR, NVDA, PYPL, COST, TSLA: Top 5 Trending Stocks Today - NVIDIA  ( NASDAQ:NVDA ) , Costco Wholesale  ( NASDAQ:COST ) ",
+            "url": "https://www.benzinga.com/25/02/43453035/palantir-nvidia-paypal-costco-tesla-why-these-5-stocks-are-on-investors-radars-today",
+            "time_published": "20250204T022615",
+            "authors": [
+                "Shivdeep Dhaliwal"
+            ],
+            "summary": "U.S. stock markets experienced a downturn today, with the Dow Jones index dropping approximately 120 points to 44,421.91. The NASDAQ fell 1.2% to 19,391.96, while the S&P 500 dropped by 0.8% to 5,994.57. These are the top stocks that gained the attention of retail traders and investors throughout ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Top-High-Yield-Stocks-to-Watch.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                }
+            ],
+            "overall_sentiment_score": -0.019239,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.109455",
+                    "ticker_sentiment_score": "0.025887",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Crosses $100 Mark In After-Hours Trading, Hits All-Time High - Jim Cramer Says 'Won't Let You Down' - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43452860/palantir-soars-23-after-hours-as-cramer-says-i-wont-let-you-down-and-dan-ives-calls-it-the-next-",
+            "time_published": "20250204T021016",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Palantir Technologies Inc. PLTR is capturing Wall Street's attention, with market commentators Jim Cramer and Dan Ives making bold predictions about the company's potential in the artificial intelligence revolution.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/PalantirShibuya--Tokyo--Japan---March-5-_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.342002,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.240489",
+                    "ticker_sentiment_score": "0.327451",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Palantir Stock Soars 23% as Artificial Intelligence  ( AI )  Demand Drives 75% Earnings Growth",
+            "url": "https://www.fool.com/investing/2025/02/03/pltr-stock-earnings-best-ai-stocks/",
+            "time_published": "20250204T013000",
+            "authors": [
+                "Beth McKenna"
+            ],
+            "summary": "The AI-driven software company turned in fantastic Q4 2024 results and 2025 guidance.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806321/pltr-stock-earnings-best-ai-stocks-2025.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.267746,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.062434",
+                    "ticker_sentiment_score": "0.13707",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.124486",
+                    "ticker_sentiment_score": "0.238102",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}
